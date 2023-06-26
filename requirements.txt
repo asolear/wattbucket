@@ -1,0 +1,7 @@
+
+mkdocs
+mkdocs-material
+mkdocs-git-revision-date-plugin
+mkdocstrings
+mkdocs-i18n                
+            
