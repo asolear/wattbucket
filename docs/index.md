@@ -2,26 +2,10 @@
 ![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
 
 <center><h1 style="color:orange;  
-  font-size: 222%; font-weight: 999">Blog sobre Autoconsumo</h1></center>
+  font-size: large">Blog sobre Autoconsumo</h1></center>
+<center><h1 style="color:red;  
+  font-size: xx-small">GRATIS a medida.</h1></center>
 
-???+ Abstract "Estudios"
-
-   
-    [ Dimensionado del sistema ](/Anexos/000_Estudios_Dimensionado del sistema/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Dimensionado del sistema.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Dimensionado del sistema formulario) 
-    
-    [ Diseño del sistema eléctrico ](/Anexos/000_Estudios_Diseño del sistema eléctrico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Diseño del sistema eléctrico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Diseño del sistema eléctrico formulario) 
-    
-    [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
- 
-???+ Abstract "Calculos"
-
-   
-    [ DECLARACIÓN RESPONSABLE del consumo ](/Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo formulario) 
-    
-    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
-    
-    [ Informe justificativo de consumo ](/Anexos/111_Calculos_Informe justificativo de consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Informe justificativo de consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Informe justificativo de consumo formulario) 
- 
 ???+ Abstract "desarrollo"
 
    
@@ -37,6 +21,24 @@
     [ Autoconsumo Residencial en Bloque de Pisos ](/Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos formulario) 
     
     [ Autoconsumo Sistema de Bombeo ](/Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo formulario) 
+ 
+???+ Abstract "Calculos"
+
+   
+    [ DECLARACIÓN RESPONSABLE del consumo ](/Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo formulario) 
+    
+    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
+    
+    [ Informe justificativo de consumo ](/Anexos/111_Calculos_Informe justificativo de consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Informe justificativo de consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Informe justificativo de consumo formulario) 
+ 
+???+ Abstract "Estudios"
+
+   
+    [ Dimensionado del sistema ](/Anexos/000_Estudios_Dimensionado del sistema/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Dimensionado del sistema.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Dimensionado del sistema formulario) 
+    
+    [ Diseño del sistema eléctrico ](/Anexos/000_Estudios_Diseño del sistema eléctrico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Diseño del sistema eléctrico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Diseño del sistema eléctrico formulario) 
+    
+    [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
  
 <style>
 body { 

@@ -1,4 +1,4 @@
-# Informe justificativo de consumo <a href="../111_Calculos_Informe justificativo de consumo.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Calculos_Informe justificativo de consumo">    :fontawesome-solid-file:</a>
+# Estudio económico <a href="../000_Proyectos_Autoconsumo Sistema de Bombeo.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../000_Proyectos_Autoconsumo Sistema de Bombeo">    :fontawesome-solid-file:</a>
 <body>
     <div id="map" style="width: 100%; height: 300px;"></div><label>Ubicación *</label>
     <script data-require="leaflet@0.7.3" data-semver="0.7.3"
@@ -36,12 +36,12 @@
         }
     </style>
     
-    <form action="mailto:info@wattbucket.com?subject=WB Informe justificativo de consumo" method="post" enctype="text/plain">
-        <input type="hidden" name="correo_Documento" id="correo_Documento"  value="Informe justificativo de consumo"><br>
+    <form action="mailto:info@wattbucket.com?subject=WB Estudio económico" method="post" enctype="text/plain">
+        <input type="hidden" name="correo_Documento" id="correo_Documento"  value="Estudio económico"><br>
         <input type="hidden" name='Ubicacion_latitud' class="form-control" id="lat" value="40.41630407781033">
         <input type="hidden" name='Ubicacion_longitud' class="form-control" id="lng" value="-3.703777670925774">
 
- <h3>Tecnico</h3> <label>Nombre</label><br> <input type="text" id="Tecnico_Nombre" name="Tecnico_Nombre" > <br> <label>Titulación</label><br> <input type="text" id="Tecnico_Titulación" name="Tecnico_Titulación" > <br> <label>N.I.F.</label><br> <input type="text" id="Tecnico_N.I.F." name="Tecnico_N.I.F." > <br> <label>Empresa</label><br> <input type="text" id="Tecnico_Empresa" name="Tecnico_Empresa" > <br> <label>N.I.F. Empresa</label><br> <input type="text" id="Tecnico_N.I.F. Empresa" name="Tecnico_N.I.F. Empresa" > <br> <label>Direccion</label><br> <input type="text" id="Tecnico_Direccion" name="Tecnico_Direccion" > <br> <label>Poblacion</label><br> <input type="text" id="Tecnico_Poblacion" name="Tecnico_Poblacion" > <br> <label>Provincia</label><br> <input type="text" id="Tecnico_Provincia" name="Tecnico_Provincia" > <br> <label>Correo electrónico</label><br> <input type="text" id="Tecnico_Correo electrónico" name="Tecnico_Correo electrónico" > <br> <label>Teléfono</label><br> <input type="text" id="Tecnico_Teléfono" name="Tecnico_Teléfono" > <br> 
+ <h3>Titular</h3> <label>Nombre</label><br> <input type="text" id="Titular_Nombre" name="Titular_Nombre" > <br> <label>CIF</label><br> <input type="text" id="Titular_CIF" name="Titular_CIF" > <br> <label>Direccion</label><br> <input type="text" id="Titular_Direccion" name="Titular_Direccion" > <br> <label>Poblacion</label><br> <input type="text" id="Titular_Poblacion" name="Titular_Poblacion" > <br> <label>Provincia</label><br> <input type="text" id="Titular_Provincia" name="Titular_Provincia" > <br> <label>CP</label><br> <input type="text" id="Titular_CP" name="Titular_CP" > <br> <label>Telefono</label><br> <input type="text" id="Titular_Telefono" name="Titular_Telefono" > <br> <label>email</label><br> <input type="text" id="Titular_email" name="Titular_email" > <br> <h3>Electricidad</h3> 
             <input type="file" name="archivo">
         <br><br><label><input type="checkbox" class="agree" required> Acepto la Política de
             Privacidad</label><br><input type="submit" style="width:100%;height: 60px;background-color: #4CAF50"

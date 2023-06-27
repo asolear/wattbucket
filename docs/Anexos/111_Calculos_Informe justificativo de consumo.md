@@ -1,7 +1,7 @@
 ---
 campos: ['Tecnico']
-title: Informe justificativo de consumo
-author: by Watt Bucket 
+title: INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.         
+author: Pepe Perez
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
@@ -10,15 +10,15 @@ header-includes: |
     \fancyfoot[R]{\thepage}
     \fancyfoot[L]{Programa de incentivos 4: justificación del consumo anual de energía igual o superior al 80\% de la energía generada por la instalación 9}
 
-abstract: Previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.
+abstract: El apartado 5 del Artículo 13 y el apartado F, del Anexo AI.1 del Real Decreto 477/2021 establecen que, para ser elegibles, los destinatarios últimos del programa de incentivos 4 tendrán que justificar la previsión de que, en cómputo anual, la suma de la energía eléctrica consumida por parte del consumidor o consumidores asociados a la instalación de autoconsumo objeto de ayuda sea igual o superior al 80 % de la energía anual generada por ésta, según lo establecido en el anexo II. De acuerdo a lo publicado en el RD 477/2021, para los destinatarios últimos acogidos al programa 4, es necesario la presentación de una declaración responsable en fase de solicitud y de un informe en fase de justificación1, ambos documentos firmados por técnico competente o empresa instaladora, en los que se estime y justifique respectivamente que el consumo de la instalación es igual o superior al 80% de la energía generada.
 ...
 \listoffigures
 \listoftables
 \pagebreak
 
-<center>INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda</center>
 
-# Informe justificativo de consumo. <a href="../111_Calculos_Informe justificativo de consumo.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Calculos_Informe justificativo de consumo formulario">    :fontawesome-solid-file-pen:</a>
+# INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.          <a href="../111_Calculos_Informe justificativo de consumo.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Calculos_Informe justificativo de consumo formulario">    :fontawesome-solid-file-pen:</a>
+
 
 ## Datos del técnico que realiza la memoria [^1]
 
