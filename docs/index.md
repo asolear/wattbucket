@@ -13,6 +13,15 @@
     
     [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
  
+???+ Abstract "Calculos"
+
+   
+    [ DECLARACIÓN RESPONSABLE del consumo ](/Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo formulario) 
+    
+    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
+    
+    [ Informe justificativo de consumo ](/Anexos/111_Calculos_Informe justificativo de consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Informe justificativo de consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Informe justificativo de consumo formulario) 
+ 
 ???+ Abstract "desarrollo"
 
    
@@ -28,13 +37,6 @@
     [ Autoconsumo Residencial en Bloque de Pisos ](/Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos formulario) 
     
     [ Autoconsumo Sistema de Bombeo ](/Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo formulario) 
- 
-???+ Abstract "Calculos"
-
-   
-    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
-    
-    [ Informe justificativo de consumo ](/Anexos/111_Calculos_Informe justificativo de consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Informe justificativo de consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Informe justificativo de consumo formulario) 
  
 <style>
 body { 
