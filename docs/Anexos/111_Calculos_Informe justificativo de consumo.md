@@ -1,7 +1,7 @@
 ---
 campos: ['Tecnico']
 title: INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.         
-author: Pepe Perez
+author: Pepe Perez SL
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}

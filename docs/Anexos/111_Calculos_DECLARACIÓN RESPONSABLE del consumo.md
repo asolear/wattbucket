@@ -8,7 +8,7 @@ header-includes: |
     \fancyhead[C]{}
     \fancyhead[R]{DECLARACIÓN RESPONSABLE del consumo}
     \fancyfoot[R]{\thepage}
-    \fancyfoot[L]{Programa de incentivos 4: justificación del consumo anual de energía igual o superior al 80\% de la energía generada por la instalación 9}
+    \fancyfoot[L]{Programa de incentivos 4 justificación del consumo anual de energía igual o superior al 80\% de la energía generada por la instalación}
 
 
 
@@ -73,7 +73,7 @@ anual generada por la instalación.
 
 
 En Malaga 
-a 27 de 06 de 2023
+a 28 de 06 de 2023
 
 \vspace{2cm}
 
