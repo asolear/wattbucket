@@ -6,15 +6,6 @@
 <center><h1 style="color:red;  
   font-size: xx-small">Documentos a medida gratuitos.</h1></center>
 
-???+ Abstract "Estudios"
-
-   
-    [ Dimensionado del sistema ](/Anexos/000_Estudios_Dimensionado del sistema/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Dimensionado del sistema.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Dimensionado del sistema formulario) 
-    
-    [ Diseño del sistema eléctrico ](/Anexos/000_Estudios_Diseño del sistema eléctrico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Diseño del sistema eléctrico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Diseño del sistema eléctrico formulario) 
-    
-    [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
- 
 ???+ Abstract "Proyectos"
 
    
@@ -23,6 +14,15 @@
     [ Autoconsumo Residencial en Bloque de Pisos ](/Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos formulario) 
     
     [ Autoconsumo Sistema de Bombeo ](/Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo formulario) 
+ 
+???+ Abstract "Justificante"
+
+   
+    [ BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS ](/Anexos/111_Justificante_BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS formulario) 
+    
+    [ CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA ](/Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA formulario) 
+    
+    [ REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA ](/Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA formulario) 
  
 ???+ Abstract "Calculos"
 
@@ -40,14 +40,14 @@
     
     [ planos2tabla ](/Anexos/000_desarrollo_planos2tabla/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2tabla.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2tabla formulario) 
  
-???+ Abstract "Justificante"
+???+ Abstract "Estudios"
 
    
-    [ BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS ](/Anexos/111_Justificante_BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS formulario) 
+    [ Dimensionado del sistema ](/Anexos/000_Estudios_Dimensionado del sistema/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Dimensionado del sistema.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Dimensionado del sistema formulario) 
     
-    [ CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA ](/Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA formulario) 
+    [ Diseño del sistema eléctrico ](/Anexos/000_Estudios_Diseño del sistema eléctrico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Diseño del sistema eléctrico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Diseño del sistema eléctrico formulario) 
     
-    [ REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA ](/Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA formulario) 
+    [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
  
 <style>
 body { 
