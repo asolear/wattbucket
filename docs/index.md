@@ -3,17 +3,17 @@
 
 <center><h1 style="color:orange;  
   font-size: large">Blog sobre Autoconsumo</h1></center>
-<center><h1 style="color:red;  
-  font-size: xx-small">Documentos a medida gratuitos.</h1></center>
+<center><p style="color:red;  
+  font-size: xx-small">Documentos a medida :fontawesome-solid-file-pen:.</p></center>
 
-???+ Abstract "Proyectos"
+???+ Abstract "Estudios"
 
    
-    [ Autoconsumo Nave Industrial ](/Anexos/000_Proyectos_Autoconsumo Nave Industrial/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial formulario) 
+    [ Dimensionado del sistema ](/Anexos/000_Estudios_Dimensionado del sistema/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Dimensionado del sistema.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Dimensionado del sistema formulario) 
     
-    [ Autoconsumo Residencial en Bloque de Pisos ](/Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos formulario) 
+    [ Diseño del sistema eléctrico ](/Anexos/000_Estudios_Diseño del sistema eléctrico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Diseño del sistema eléctrico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Diseño del sistema eléctrico formulario) 
     
-    [ Autoconsumo Sistema de Bombeo ](/Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo formulario) 
+    [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
  
 ???+ Abstract "Justificante"
 
@@ -30,8 +30,15 @@
     [ DECLARACIÓN RESPONSABLE del consumo ](/Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo formulario) 
     
     [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
+ 
+???+ Abstract "Proyectos"
+
+   
+    [ Autoconsumo Nave Industrial ](/Anexos/000_Proyectos_Autoconsumo Nave Industrial/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial formulario) 
     
-    [ Informe justificativo de consumo ](/Anexos/111_Calculos_Informe justificativo de consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Informe justificativo de consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Informe justificativo de consumo formulario) 
+    [ Autoconsumo Residencial en Bloque de Pisos ](/Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos formulario) 
+    
+    [ Autoconsumo Sistema de Bombeo ](/Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo formulario) 
  
 ???+ Abstract "desarrollo"
 
@@ -39,15 +46,6 @@
     [ planos2fig ](/Anexos/000_desarrollo_planos2fig/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2fig.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2fig formulario) 
     
     [ planos2tabla ](/Anexos/000_desarrollo_planos2tabla/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2tabla.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2tabla formulario) 
- 
-???+ Abstract "Estudios"
-
-   
-    [ Dimensionado del sistema ](/Anexos/000_Estudios_Dimensionado del sistema/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Dimensionado del sistema.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Dimensionado del sistema formulario) 
-    
-    [ Diseño del sistema eléctrico ](/Anexos/000_Estudios_Diseño del sistema eléctrico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Diseño del sistema eléctrico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Diseño del sistema eléctrico formulario) 
-    
-    [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
  
 <style>
 body { 
