@@ -25,10 +25,10 @@ abstract: DECLARACIÓN RESPONSABLE relativa a la estimación de que el consumo a
 ## DECLARACIÓN RESPONSABLE
 
 ### EL técnico
-Don/Doña Pepe Perez de
-nacionalidad: espanola, con N.I.F./N.I.E.: 11223344A actuando como
+Don/Doña Quico Roman de
+nacionalidad: espanola, con N.I.F./N.I.E.: 24206918Q actuando como
 técnico competente con la titulación Ingeniero Tecnico Industrial o en
-representación de la empresa instaladora Pepe Perez SL
+representación de la empresa instaladora Quico Roman y Asociados
 con N.I.F. A11223344 a petición del destinatario último.
 
 ### Destinatario último
@@ -73,18 +73,18 @@ anual generada por la instalación.
 
 
 En Malaga 
-a 29 de 06 de 2023
+a 30 de 06 de 2023
 
 \vspace{2cm}
 
 Firma del técnico competente o la empresa instaladora:
 \vspace{2cm}
 
-D. Pepe Perez
+D. Quico Roman
 
 Titulación. Ingeniero Tecnico Industrial
 
-N.I.F. 11223344A
+N.I.F. 24206918Q
 
 
 ##

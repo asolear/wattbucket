@@ -1,7 +1,7 @@
 ---
 campos: ['Tecnico']
-title: 
-author: Pepe Perez SL
+title: INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.         
+author: Quico Roman y Asociados
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
@@ -10,13 +10,13 @@ header-includes: |
     \fancyfoot{}
     \fancyfoot[R]{Página \thepage }
     \fancyfoot[L]{\includegraphics[width=1.5cm]{assets/_qr.png} }
-abstract: 
+abstract: El apartado 5 del Artículo 13 y el apartado F, del Anexo AI.1 del Real Decreto 477/2021 establecen que, para ser elegibles, los destinatarios últimos del programa de incentivos 4 tendrán que justificar la previsión de que, en cómputo anual, la suma de la energía eléctrica consumida por parte del consumidor o consumidores asociados a la instalación de autoconsumo objeto de ayuda sea igual o superior al 80 % de la energía anual generada por ésta, según lo establecido en el anexo II. De acuerdo a lo publicado en el RD 477/2021, para los destinatarios últimos acogidos al programa 4, es necesario la presentación de una declaración responsable en fase de solicitud y de un informe en fase de justificación1, ambos documentos firmados por técnico competente o empresa instaladora, en los que se estime y justifique respectivamente que el consumo de la instalación es igual o superior al 80% de la energía generada.
 ...
 \listoffigures
 \listoftables
 \pagebreak
 
-#  <a href="../111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA formulario">    :fontawesome-solid-file-pen:</a>
+# INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.          <a href="../111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA formulario">    :fontawesome-solid-file-pen:</a>
 
 
 ## Introducción.
@@ -94,11 +94,11 @@ Este documento fotográfico responde a la realidad de la instalación objeto de 
 
 \vspace{4cm}
 
- Pepe Perez. 
+ Quico Roman. 
 
 
 
-Con DNI 11223344A en calidad de:representante legal de la empresa instaladora.
+Con DNI 24206918Q en calidad de:representante legal de la empresa instaladora.
 
 
 
@@ -109,6 +109,19 @@ Con DNI 11223344A en calidad de:representante legal de la empresa instaladora.
 
 
 Firma:
+
+
+
+
+
+\pagebreak
+.
+
+\vspace{21cm}
+
+![](/home/pk/Desktop/web/Documentos_MD/assets/_qr_111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.png){width=15% height=auto}
+
+[https://wattbucket.com/Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA/](https://wattbucket.com/Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA/)
 
 
 

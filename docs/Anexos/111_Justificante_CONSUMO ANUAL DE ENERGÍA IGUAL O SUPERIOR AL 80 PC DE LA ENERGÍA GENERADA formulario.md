@@ -1,4 +1,4 @@
-# CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA <a href="../000_Proyectos_Autoconsumo Sistema de Bombeo.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../000_Proyectos_Autoconsumo Sistema de Bombeo">    :fontawesome-solid-file:</a>
+# CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA <a href="../111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA">    :fontawesome-solid-file:</a>
 <body>
     <div id="map" style="width: 100%; height: 300px;"></div><label>Ubicación *</label>
     <script data-require="leaflet@0.7.3" data-semver="0.7.3"
@@ -36,7 +36,7 @@
         }
     </style>
     
-    <form action="mailto:info@wattbucket.com?subject=WB CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA" method="post" enctype="text/plain">
+    <form action="mailto:info@wattbucket.com?subject=QR CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA" method="post" enctype="text/plain">
         <input type="hidden" name="correo_Documento" id="correo_Documento"  value="CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA"><br>
         <input type="hidden" name='Ubicacion_latitud' class="form-control" id="lat" value="40.41630407781033">
         <input type="hidden" name='Ubicacion_longitud' class="form-control" id="lng" value="-3.703777670925774">

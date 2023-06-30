@@ -1,7 +1,7 @@
 ---
 campos: ['Tecnico']
-title: 
-author: Pepe Perez SL
+title: INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.         
+author: Quico Roman y Asociados
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
@@ -9,24 +9,24 @@ header-includes: |
     \fancyhead[R]{CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA}
     \fancyfoot{}
     \fancyfoot[R]{Página \thepage}
-abstract: 
+abstract: El apartado 5 del Artículo 13 y el apartado F, del Anexo AI.1 del Real Decreto 477/2021 establecen que, para ser elegibles, los destinatarios últimos del programa de incentivos 4 tendrán que justificar la previsión de que, en cómputo anual, la suma de la energía eléctrica consumida por parte del consumidor o consumidores asociados a la instalación de autoconsumo objeto de ayuda sea igual o superior al 80 % de la energía anual generada por ésta, según lo establecido en el anexo II. De acuerdo a lo publicado en el RD 477/2021, para los destinatarios últimos acogidos al programa 4, es necesario la presentación de una declaración responsable en fase de solicitud y de un informe en fase de justificación1, ambos documentos firmados por técnico competente o empresa instaladora, en los que se estime y justifique respectivamente que el consumo de la instalación es igual o superior al 80% de la energía generada.
 ...
 \listoffigures
 \listoftables
 \pagebreak
 
 
-#  <a href="../111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA formulario">    :fontawesome-solid-file-pen:</a>[^1]
+# INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda.          <a href="../111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA formulario">    :fontawesome-solid-file-pen:</a>[^1]
 
 
 ## Datos del técnico que realiza la memoria [^1]
 
-- Nombre: Pepe Perez
+- Nombre: Quico Roman
 - Titulación: Ingeniero Tecnico Industrial
-- N.I.F.: 11223344A
-- Empresa: Pepe Perez SL
+- N.I.F.: 24206918Q
+- Empresa: Quico Roman y Asociados
 - N.I.F. Empresa: A11223344
-- Domicilio: Iglesia,2
+- Domicilio: Moby Dick, 30
 - Correo electrónico: PepePerez@PepePerezSL.es
 - Teléfono: 666555444
 
@@ -86,19 +86,21 @@ Table: ESTIMACIÓN CONSUMO ANUAL
 ### Cálculos justificativos de la energía generada anual estimada
 
 
-### Otros Justificantes:
-
-Otra documentacion para justificar los incentivos [^14] [^15]
-
-
 
 \pagebreak
+.
 
-\vspace{20cm}
+\vspace{21cm}
 
-![cartel publicidad](assets/_qr.png)
 
-https://wattbucket.com 
+
+
+
+![](assets/_qr_111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.png){width=15% height=auto}
+
+[https://wattbucket.com/Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA/](https://wattbucket.com/Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA/)
+
+
 
 
 
