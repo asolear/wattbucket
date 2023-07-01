@@ -1,5 +1,5 @@
 # desde el codigo# 
-site_name: Q.Roman & Asoc.
+site_name: Q.Roman
 Site_url: https://wattbucket.com
 docs_dir: 'docs'
 copyright: Copyright &copy; 2023 Watt Bucket
@@ -113,14 +113,14 @@ nav:
     - desarrollo: 
         - planos2tabla: Anexos/000_desarrollo_planos2tabla.md 
         - planos2fig: Anexos/000_desarrollo_planos2fig.md 
-    - Justificante: 
-        - CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA: Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.md 
-        - REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA: Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.md 
-        - BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS: Anexos/111_Justificante_BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS.md 
+    - Incentivos: 
+        - Justificante BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS: Anexos/111_Incentivos_Justificante BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS.md 
+        - DECLARACIÓN RESPONSABLE del consumo: Anexos/111_Incentivos_DECLARACIÓN RESPONSABLE del consumo.md 
+        - Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA: Anexos/111_Incentivos_Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.md 
+        - Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA: Anexos/111_Incentivos_Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.md 
     - Estudios: 
         - Diseño del sistema eléctrico: Anexos/000_Estudios_Diseño del sistema eléctrico.md 
         - Dimensionado del sistema: Anexos/000_Estudios_Dimensionado del sistema.md 
         - Estudio económico: Anexos/000_Estudios_Estudio económico.md 
     - Calculos: 
-        - DECLARACIÓN RESPONSABLE del consumo: Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo.md 
         - Distancia mínima entre filas de módulos: Anexos/111_Calculos_Distancia mínima entre filas de módulos.md
