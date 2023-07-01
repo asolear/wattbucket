@@ -6,13 +6,6 @@
 <center><p style="color:red;  
   font-size: xx-small">Documentos a medida :fontawesome-solid-file-pen:.</p></center>
 
-???+ Abstract "desarrollo"
-
-   
-    [ planos2fig ](/Anexos/000_desarrollo_planos2fig/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2fig.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2fig formulario) 
-    
-    [ planos2tabla ](/Anexos/000_desarrollo_planos2tabla/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2tabla.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2tabla formulario) 
- 
 ???+ Abstract "Estudios"
 
    
@@ -21,6 +14,20 @@
     [ Diseño del sistema eléctrico ](/Anexos/000_Estudios_Diseño del sistema eléctrico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Diseño del sistema eléctrico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Diseño del sistema eléctrico formulario) 
     
     [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
+ 
+???+ Abstract "Calculos"
+
+   
+    [ DECLARACIÓN RESPONSABLE del consumo ](/Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo formulario) 
+    
+    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
+ 
+???+ Abstract "desarrollo"
+
+   
+    [ planos2fig ](/Anexos/000_desarrollo_planos2fig/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2fig.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2fig formulario) 
+    
+    [ planos2tabla ](/Anexos/000_desarrollo_planos2tabla/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2tabla.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2tabla formulario) 
  
 ???+ Abstract "Proyectos"
 
@@ -39,13 +46,6 @@
     [ CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA ](/Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA formulario) 
     
     [ REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA ](/Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Justificante_REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA formulario) 
- 
-???+ Abstract "Calculos"
-
-   
-    [ DECLARACIÓN RESPONSABLE del consumo ](/Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_DECLARACIÓN RESPONSABLE del consumo formulario) 
-    
-    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
  
 <style>
 body { 
