@@ -5,6 +5,7 @@ title:
     GENERACIÓN FOTOVOLTAICA CON/SIN ALMACENAMIENTO
 author: Q.Roman
 header-includes: |
+    \usepackage{multicol}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead{}
@@ -20,6 +21,8 @@ abstract:
 \listoffigures
 \listoftables
 \pagebreak
+
+
 
 # REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA CON/SIN ALMACENAMIENTO  <a href="../111_Incentivos_Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Incentivos_Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA formulario">    :fontawesome-solid-file-pen:</a>
 
@@ -126,11 +129,22 @@ Firma:
 \pagebreak
 .
 
-\vspace{20cm}
+\vspace{18cm}
+
 ![](assets/_qr_111_Incentivos_JustificanteREPORTAJEFOTOGRÁFICODEACTUACIÓNEJECUTADADEGENERACIÓNFOTOVOLTAICA.png){width=25% height=auto}
+
 [https://wattbucket.com/Anexos/111_Incentivos_Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA/](https://wattbucket.com/Anexos/111_Incentivos_Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA/)
 
 
+\begin{multicols}{2}
 
+FMRG
+
+
+\columnbreak
+
+2023
+
+\end{multicols}
 
 

@@ -104,6 +104,7 @@ plugins:
           About this manual: Acerca de este manual
           Access configuration : Configuracion de acceso
 
+
 nav:
 
     - Proyectos: 
@@ -124,3 +125,4 @@ nav:
         - Estudio económico: Anexos/000_Estudios_Estudio económico.md 
     - Calculos: 
         - Distancia mínima entre filas de módulos: Anexos/111_Calculos_Distancia mínima entre filas de módulos.md
+

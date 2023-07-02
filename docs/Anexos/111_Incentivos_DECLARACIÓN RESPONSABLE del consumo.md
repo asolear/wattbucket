@@ -1,11 +1,15 @@
 ---
 title: 
-    MEMORIA JUSTIFICATIVA DE CUMPLIMIENTO DE LA CONDICIONES
-    DE LAS BASES REGULADORAS PARA INSTALACIONES
-    FOTOVOLTAICAS O EÓLICAS DE AUTOCONSUMO ELÉCTRICO CON O
-    SIN ALMACENAMIENTO (PROGRAMAS 1, 2 Y 4)
-abstract: 
     DECLARACIÓN RESPONSABLE relativa a la estimación de que el consumo anual de energía por parte del consumidor o consumidores asociados a la  instalación sea igual o mayor al 80 % de la energía anual generada por la instalación.
+abstract: 
+    El apartado 5 del Artículo 13 y el apartado F, del Anexo AI.1 del Real Decreto 477/2021 establecen
+    que, para ser elegibles, los destinatarios últimos del programa de incentivos 4 tendrán que justificar
+    la previsión de que, en cómputo anual, la suma de la energía eléctrica consumida por parte del
+    consumidor o consumidores asociados a la instalación de autoconsumo objeto de ayuda sea igual o
+    superior al 80 % de la energía anual generada por ésta, según lo establecido en el anexo II.
+    De acuerdo a lo publicado en el RD 477/2021, para los destinatarios últimos acogidos al programa 4,
+    es necesario la presentación de una declaración responsable en fase de solicitud y de un informe en
+    fase de justificación.
 campos: ['Tecnico']
 author: Q.Roman
 header-includes: |
@@ -28,7 +32,7 @@ header-includes: |
 # DECLARACIÓN RESPONSABLE del consumo. <a href="../111_Incentivos_DECLARACIÓN RESPONSABLE del consumo.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Incentivos_DECLARACIÓN RESPONSABLE del consumo formulario">    :fontawesome-solid-file-pen:</a>
 
 
-## DECLARACIÓN RESPONSABLE
+## DECLARACIÓN RESPONSABLE[^1]
 
 ### EL técnico
 Don/Doña Francisco Manuel Roman Gamez de

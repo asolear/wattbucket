@@ -17,6 +17,7 @@ abstract:
     al 80% de la energía generada
 author: Q.Roman
 header-includes: |
+    \usepackage{multicol}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead{}
@@ -27,7 +28,6 @@ header-includes: |
 \listoffigures
 \listoftables
 \pagebreak
-
 
 #     INFORME JUSTIFICATIVO de la previsión de que el consumo anual de energía por parte del consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación objeto de la ayuda. <a href="../111_Incentivos_Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Incentivos_Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA formulario">    :fontawesome-solid-file-pen:</a>[^1]
 
