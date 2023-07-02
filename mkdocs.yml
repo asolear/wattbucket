@@ -50,7 +50,16 @@ extra:
     actions:
       - accept
       - reject      
-
+  alternate:
+    - name: Espanol
+      link: /
+      lang: es
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
 markdown_extensions:
   - footnotes
   - pymdownx.critic
@@ -89,20 +98,7 @@ plugins:
   - git-revision-date          
   - mkdocstrings
   - search
-  - i18n:
-      default_language: en
-      default_language_only: false
-      languages:
-        en:
-          name: English
-          build: true
-        es:
-          name: Spanish
-          build: true
-      nav_translations:
-        es:
-          About this manual: Acerca de este manual
-          Access configuration : Configuracion de acceso
+
 
 
 nav:
@@ -114,7 +110,9 @@ nav:
     - desarrollo: 
         - planos2tabla: Anexos/000_desarrollo_planos2tabla.md 
         - planos2fig: Anexos/000_desarrollo_planos2fig.md 
+        - todo y enlaces: Anexos/000_desarrollo_todo y enlaces.md 
     - Incentivos: 
+        - SOLICITUD: Anexos/111_Incentivos_SOLICITUD.md 
         - Justificante BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS: Anexos/111_Incentivos_Justificante BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS.md 
         - DECLARACIÓN RESPONSABLE del consumo: Anexos/111_Incentivos_DECLARACIÓN RESPONSABLE del consumo.md 
         - Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA: Anexos/111_Incentivos_Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.md 

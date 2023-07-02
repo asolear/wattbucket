@@ -83,7 +83,7 @@ anual generada por la instalación.
 
 
 En Málaga 
-a 01 de 07 de 2023
+a 02 de 07 de 2023
 
 \vspace{2cm}
 
