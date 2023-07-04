@@ -476,13 +476,9 @@ N.I.F.
 
 \newpage
 
-
-
 \centering
 
 \color{brown}
-
-
 
 ## DECLARACIÓN RESPONSABLE relativa a la estimación de que el consumo anual de energía por parte del consumidor o consumidoresasociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación [^6]
 \raggedright
@@ -526,13 +522,14 @@ Nº Expediente de la solicitud:
   - Puerta
   
 - Provincia:
-    
+  
 - Municipio:
-    
+  
 - Código Postal:
-    
+  
+  
+  
 
-    
 Lo que firma a los efectos oportunos: 
 
 
@@ -540,6 +537,323 @@ Lo que firma a los efectos oportunos:
 Firma
 
 
+
+
+
+\newpage
+
+\centering
+
+## Anexo a la memoria del cumplimiento de las condiciones
+
+\raggedright
+
+Debe aportar documento de garantía de las baterías instaladas, así como  en caso necesario, extensión de la misma suscrita o bien con el  fabricante o bien con el suministrador o la empresa instaladora, que  acredite que las baterías cuentan con una garantía mínima de 5 años
+
+
+
+\newpage
+
+\centering
+
+## Certificado de Instalación Eléctrica (CIE)
+
+\raggedright
+
+De acuerdo con el Reglamento electrotécnico de baja tensión (en  instalaciones eléctricas de cualquier tipología), emitido por la empresa instaladora y diligenciado por la Consejería de Política Industrial y  Energía de la Junta de Andalucía. En el caso de los programas de  incentivos 3 y 5, este CIE será el de la instalación final una vez  incorporado el almacenamiento a la instalación existente.
+
+
+
+\newpage
+
+\centering
+
+## Cuenta Justificativa
+
+\raggedright
+
+La justificación se realizará mediante aportación de cuenta  justificativa con aportación de facturas y justificantes de gasto. La  cuenta contiene las declaraciones necesarias descritas en el resuelve  decimoquinto de la resolución de 28 de septiembre 2021, así como una  memoria de la actuación justificativa de las actividades realizadas y  los resultados obtenidos y una memoria económica que incluye la  totalidad de gastos e inversiones incurridos en la realización de la  actividad subvencionada, así como las desviaciones acaecidas y la  relación de otros ingresos o subvenciones que hayan financiado el  proyecto.
+
+#### Modelo Excel
+
+
+
+
+
+El presente documento tiene por objeto indicar la relación de facturas y justificantes de pago de la actuación, con identificación del proveedor y del documento, su importe, fechas de emisión de los documentos de justificación y fecha de pago.
+
+| **Número de Factura** | **Fecha de Factura** | **Factura Rectificada** | **Número de Factura Rectificada** | **Importe facturado imputado al proyecto euros (IVA incluido)** | **NIF/NIE/CIF Proveedor** | **Razón Social Proveedor** | **Número de Referencia de Justificante de Pago** | **Tipo Justificante de Pago** | **Fecha de Pago** | **Importe pago imputado al proyecto euros (IVA incluido)** |      |
+| --------------------- | -------------------- | ----------------------- | --------------------------------- | ------------------------------------------------------------ | ------------------------- | -------------------------- | ------------------------------------------------ | ----------------------------- | ----------------- | ---------------------------------------------------------- | ---- |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+|                       |                      |                         |                                   |                                                              |                           |                            |                                                  |                               |                   |                                                            |      |
+
+
+
+
+
+\newpage
+
+
+
+## Declaración de ausencia de conflicto de intereses entidad beneficiaria (DACI) [^10]
+
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea –
+NextGenerationEU.
+
+Expediente subvención: …………………….
+
+Al objeto de garantizar la imparcialidad en el procedimiento arriba referenciado, el abajo firmante, como
+persona beneficiaria, adjudicataria o participante en el expediente de referencia, declara:
+
+- Primero.- Estar informado/s de lo siguiente:
+
+  - 1 Que pueden incurrir en conflicto de interés aquellas personas beneficiarias privadas, socios, contratistas,
+    subcontratistas, representantes de medios propios o representantes de entidades conveniantes cuyas
+    actuaciones sean financiadas con fondos del MRR, que puedan actuar en favor de sus propios intereses, pero
+    en contra de los intereses financieros de la UE, en el marco de un conflicto de intereses.
+
+    - 2 Atendiendo a la situación que motivaría el conflicto de intereses, puede distinguirse entre:
+    
+      - i Conflicto de intereses aparente: Se produce cuando los intereses privados de una persona
+        beneficiaria, socio, contratista, subcontratista una persona representante de un medio propio o de
+        una entidad conveniante, son susceptibles de comprometer el ejercicio objetivo de sus funciones u
+        obligaciones, pero finalmente no se encuentra un vínculo identificable e individual con aspectos
+        concretos de la conducta, el comportamiento o las relaciones de la persona (o una repercusión en
+        dichos aspectos).
+    
+      - ii Conflicto de intereses potencial: Surge cuando una persona beneficiaria, socio, contratista,
+        subcontratista una persona representante un de medio propio o un representante de una entidad
+        conveniante tiene intereses privados de tal naturaleza, que podrían ser susceptibles de ocasionar un
+        conflicto de intereses en el caso de que tuvieran que asumir en un futuro determinadas
+        responsabilidades oficiales.
+    
+      - iii Conflicto de intereses real: Implica un conflicto entre las obligaciones contraídas al solicitar la
+        ayuda de los fondos y sus intereses privados que pueden influir de manera indebida en el desempeño
+        de las citadas obligaciones.
+
+- Segundo.- Que no se encuentra incurso en ninguna de las situaciones descritas en el apartado primero.
+
+- Tercero.- Que se compromete a poner en conocimiento de la Administración de la Junta de Andalucía o
+  entidad instrumental, sin dilación, cualquier situación de conflicto de intereses de las que se encuentran
+  descritas en el apartado primero.
+  
+- Cuarto.- Que conozco que, una declaración de ausencia de conflicto de intereses que se demuestre que sea
+  falsa, puede conllevar el inicio de un expediente de devolución del cobro de lo indebido y acarreará las
+  consecuencias administrativas y/o judiciales que establezca la normativa de aplicación
+
+
+Y para que conste, se firma la presente declaración
+
+\vspace{3cm}
+
+Fdo. La persona beneficiaria …………………………………………………….… …………………… con DNI/NIE
+……………………
+
+\newpage
+
+\centering
+
+
+
+### Informe justificativo de la previsión de que el consumo anual real de energía por parte del consumidor o consumidores asociados a la instalación es igual o mayor al 80 % de la energía anual generada por la  instalación objeto de la ayuda[^31]
+
+\raggedright
+
+
+### Datos del técnico que realiza la memoria [^21]
+
+- Nombre: Francisco Manuel Roman Gamez
+- Titulación: Ingeniero Tecnico Industrial
+- N.I.F.: 24206918Q
+- Empresa: Q.Roman
+- N.I.F. Empresa: A11223344
+- Domicilio: Moby Dick, 30
+- Correo electrónico: francisomanuelromangamez@gmail.com
+- Teléfono: 600366211
+
+### Datos de la installation
+
+Table: Datos de la instalación.
+
+|      |                                                              |        |
+| ---- | ------------------------------------------------------------ | ------ |
+| a    | Ubicación [^30]                                              | 33     |
+| b    | Consumidores y CUPS asociados al autoconsumo [^31]           |        |
+| c    | Energía consumida anual estimada de los consumidores asociados a la instalación de generación de autoconsumo (kWh) [^32] | 8888 |
+| d    | Energía generada anual estimada de la nueva instalación (kWh)[^33] | 33   |
+| e    | Potencia instalada de la nueva instalación de generación (kWp) | 88   |
+| f    | Horas equivalentes estimadas respecto potencia pico (kWh/kWp) | 99   |
+
+
+
+$$
+\%= \frac{Energia consumida anual estimada}{Energia generada anual estimada} \cdot 100  =
+$$
+
+
+
+### Cálculos justificativos
+#### Cálculos justificativos de la energía consumida anual estimada.
+
+Respecto a la estimación de la energía consumida y generada anual, se debe considerar que:
+
+- Para la estimación de la energía consumida anual se podrán utilizar como referencia los datos
+obtenidos del consumo anual real del suministro [^2] del último año a partir de las facturas de
+electricidad (o web de la comercializadora correspondiente) o de archivo Excel del SIPS
+(Sistema de información de Puntos de Suministro) de la distribuidora, o de cualquier otra
+fuente disponible que permita obtener estos datos.
+- En el caso de no existir consumo previo o no disponer de dichos datos, la estimación del
+mismo se podrá hacer, por ejemplo, en base a la potencia instalada, consumo estándar, etc., y
+considerando las cargas que previsiblemente, y con un alto grado de certeza, tendrá el
+consumidor el siguiente año.
+- En caso de estimar un aumento del consumo (p.ej. instalación punto de recarga de vehículos
+eléctricos, electrificación de demandas térmicas, etcétera), se debe justificar el mismo.
+- En cualquier caso se considerará justificada la estimación de consumo de acuerdo con los
+siguientes ratios[^3].
+- No obstante, podrán utilizarse datos distintos si las estimaciones están adecuadamente
+justificadas.
+
+Table: ESTIMACIÓN CONSUMO ANUAL
+
+| ESTIMACIÓN CONSUMO ANUAL                                     | Unidad           | Programa 4   |
+| ------------------------------------------------------------ | ---------------- | ------------ |
+| Vivienda                                                     | kWh/kWcontratado | 872[^24]   |
+| Vehículo eléctrico a futuro                                  | kWh/ud           | 1630[^25]  |
+| Electrificación de demanda de calor a futuro con bomba de calor | kWh/vivienda     | 4000[^26] |
+| Incorporación de equipos de aire acondicionado con bomba de calor | kWh/ud           | 180[^27]   |
+
+
+
+#### Cálculos justificativos de la energía generada anual estimada
+
+
+
+
+[^21]:[JUSTIFICACIÓN DEL CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80% DE LA ENERGÍA GENERADA POR LA INSTALACIÓN](https://www.idae.es/sites/default/files/documentos/ayudas_y_financiacion/RD477-2021_Autoconsumo_y_almacenamiento/2022_02_08-Informe_80%25_Consumo_RD477.pdf)
+[^22]: En el caso de autoconsumos colectivos se presentará la suma de consumos de todos los suministros asociados al mismo,
+separados por CUPS.
+[^23]: Para otros consumos no considerados en la tabla será igualmente razonable la consideración de ratios de fuentes como
+[^24]:Considerando un consumo medio anual de electricidad por vivienda de 3.487 kWh y una potencia media contratada de 4
+kW. Este valor de consumo anual se corresponde con el que aparece en el informe SPAHOUSEC I, publicado por IDAE:
+https://www.idae.es/informacion-y-publicaciones/estudios-informes-y-estadisticas
+
+[^25]:  Considerando un consumo medio de 16,3 kWh/km y 10.000 km al año.
+[^26]: Considerando 12.000 kWh de demanda de calor al año y rendimiento medio estacional (SPF) de 3,0 para la bomba de
+calor.
+
+[^27]: Considerando 2 horas de funcionamiento medio diario a una potencia media de 1 kW durante 90 días al año.
+[^30]: Dirección (calle/municipio/CP/provincia ó polígono/parcela/municipio/provincia), y referencia catastral o coordenadas
+UTM.
+[^31]: Incluido consumidores y CUPS correspondiente de cada uno de los consumidores asociados al autoconsumo en el cuadro  'Consumidores asociados'.
+[^32]: De acuerdo con los cálculos justificativos del apartado 3.1.
+[^33]: De acuerdo con los cálculos justificativos del apartado 3.2.
+[^34]:  [Nota informativa nº 1: Documentación imprescindible para justificar(Incentivos <50.000€ de ciudadanos o de empresas privadas)](https://www.agenciaandaluzadelaenergia.es/sites/default/files/Documentos/Incentivos/autoconsumo_nota_1_documentacion_imprescindible_para_justificar.pdf)
+
+[^35]: [USTIFICACIÓN FOTOGRÁFICA DE EJECUCIÓN](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_documento_fotografico.pdf)
+
+\newpage
+
+\centering
+
+## Declaración de cesión y tratamiento de datos entidad beneficiaria
+
+\raggedright
+
+
+
+
+
+\newpage
+
+\centering
+
+## Declaración de compromiso de cumplimiento de los principios transversales entidad beneficiaria
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Declaración de gestión de residuos del proyecto ejecutado
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Declaración responsable DNSH del proyecto ejecutado
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Facturas
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Justificantes de pago
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Licencias y autorizaciones administrativas
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Memoria del cumplimiento de las condiciones
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Pedidos y/o contratos
+
+\raggedright
+
+\newpage
+
+\centering
+
+## Proyecto/memoria técnica del diseño
+
+\raggedright
+
+
+
+\newpage
+
+\centering
+
+## Reportaje fotográfico
+
+\raggedright
 
 
 
@@ -556,5 +870,21 @@ con potencia inferior o igual a 100 kW nominales](https://incentivos.agenciaanda
 INSTALACIÓN DE AUTOCONSUMO](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_declaracion_sistema_almacenamiento.pdf)
 
 
-[^6]:  [DECLARACIÓN RESPONSABLE relativa a la estimación de que el consumo anual deenergía por parte del consumidor o consumidoresasociados a la instalación sea igual
-o mayor al 80 % de la energía anual generada por la instalación](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_solicitud_declaracion_responsable_80.pdf)
+[^6]:  [DECLARACIÓN RESPONSABLE relativa a la estimación de que el consumo anual deenergía por parte del consumidor o consumidoresasociados a la instalación sea igualo mayor al 80 % de la energía anual generada por la instalación](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_solicitud_declaracion_responsable_80.pdf)
+[^10]:[Modelos orientativos, guías y ayudasDECLARACIÓN SOBRE EXISTENCIA O AUSENCIA DE CONFLICTO DE INTERESES (DCI / DACI)](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_conflicto_interes.pdf)
+
+[^11]:[](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_informe_80%25.pdf)
+
+
+
+\pagebreak
+.
+
+\vspace{21cm}
+
+
+
+![](assets/_qr_111_Incentivos_SOLICITUD.png){width=15% height=auto}
+
+[https://wattbucket.com/Anexos/111_Incentivos_SOLICITUD/](https://wattbucket.com/Anexos/111_Incentivos_SOLICITUD/)
+
