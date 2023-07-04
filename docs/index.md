@@ -8,13 +8,6 @@
   font-size: xx-small"> :fontawesome-solid-file-pen:.- Solicitud de documento a medida</p></center>
 
 
-???+ Abstract "Calculos"
-
-
-   
-    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
- 
-
 ???+ Abstract "Estudios"
 
 
@@ -26,6 +19,32 @@
  
    
     [ Estudio económico ](/Anexos/000_Estudios_Estudio económico/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Estudios_Estudio económico.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Estudios_Estudio económico formulario) 
+ 
+
+???+ Abstract "desarrollo"
+
+
+   
+    [ planos2fig ](/Anexos/000_desarrollo_planos2fig/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2fig.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2fig formulario) 
+ 
+   
+    [ planos2tabla ](/Anexos/000_desarrollo_planos2tabla/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2tabla.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2tabla formulario) 
+ 
+   
+    [ todo y enlaces ](/Anexos/000_desarrollo_todo y enlaces/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_todo y enlaces.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_todo y enlaces formulario) 
+ 
+
+???+ Abstract "Proyectos"
+
+
+   
+    [ Autoconsumo Nave Industrial ](/Anexos/000_Proyectos_Autoconsumo Nave Industrial/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial formulario) 
+ 
+   
+    [ Autoconsumo Residencial en Bloque de Pisos ](/Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos formulario) 
+ 
+   
+    [ Autoconsumo Sistema de Bombeo ](/Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo formulario) 
  
 
 ???+ Abstract "Incentivos"
@@ -47,30 +66,11 @@
     [ SOLICITUD ](/Anexos/111_Incentivos_SOLICITUD/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Incentivos_SOLICITUD.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Incentivos_SOLICITUD formulario) 
  
 
-???+ Abstract "Proyectos"
+???+ Abstract "Calculos"
 
 
    
-    [ Autoconsumo Nave Industrial ](/Anexos/000_Proyectos_Autoconsumo Nave Industrial/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Nave Industrial formulario) 
- 
-   
-    [ Autoconsumo Residencial en Bloque de Pisos ](/Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos formulario) 
- 
-   
-    [ Autoconsumo Sistema de Bombeo ](/Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo formulario) 
- 
-
-???+ Abstract "desarrollo"
-
-
-   
-    [ planos2fig ](/Anexos/000_desarrollo_planos2fig/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2fig.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2fig formulario) 
- 
-   
-    [ planos2tabla ](/Anexos/000_desarrollo_planos2tabla/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_planos2tabla.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_planos2tabla formulario) 
- 
-   
-    [ todo y enlaces ](/Anexos/000_desarrollo_todo y enlaces/) . [:fontawesome-solid-file-pdf:](../../Anexos/000_desarrollo_todo y enlaces.pdf), [:fontawesome-solid-file-pen:](../../Anexos/000_desarrollo_todo y enlaces formulario) 
+    [ Distancia mínima entre filas de módulos ](/Anexos/111_Calculos_Distancia mínima entre filas de módulos/) . [:fontawesome-solid-file-pdf:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos.pdf), [:fontawesome-solid-file-pen:](../../Anexos/111_Calculos_Distancia mínima entre filas de módulos formulario) 
  
 
 <style>

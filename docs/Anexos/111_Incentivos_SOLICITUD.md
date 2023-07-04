@@ -22,8 +22,9 @@ header-includes: |
 
 #  SOLICITUD <a href="../111_Incentivos_SOLICITUD.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../111_Incentivos_SOLICITUD formulario">    :fontawesome-solid-file-pen:</a>
 
+## SOLICITUD
 
-## Características Beneficiario [^4]
+### Características Beneficiario [^4]
 ¿El solicitante realiza actividad económica a través de la que oferta bienes y/o servicios en el mercado y la actuación solicitada se destinará a dicha actividad?	
 No
 
@@ -61,7 +62,7 @@ Efectos de subvencionabilidad del IVA:
 
 Caso 2. La persona o entidad solicitante no recupera/compensa el IVA soportado
 
-## Datos Personales
+### Datos Personales
 
 ### Datos de la persona o entidad solicitante
 Nombre		Primer apellido		Segundo apellido	
@@ -128,7 +129,7 @@ MÁLAGA
 
 \newpage
 
-## Datos del proyecto
+### Datos del proyecto
 
 ### Datos del proyecto
 Título del proyecto	
@@ -178,7 +179,7 @@ Longitud
 
 \newpage
 
-## Datos Actuacion
+### Datos Actuacion
 
 ### Deslgose de Datos Económicos
 
@@ -297,7 +298,7 @@ Debe identificar en este apartado si ha percibido o solicitado **otras ayudas pa
 
 
 
-## Documentación
+### Documentación
 
 
 
@@ -325,7 +326,7 @@ Debe identificar en este apartado si ha percibido o solicitado **otras ayudas pa
 
 \centering
 
-## DECLARACIÓN RESPONSABLE cumplimiento del principio de no causar daño significativo (DNSH). Instalaciones con potencia inferior o igual a 100 kW nominales [^3]
+### DECLARACIÓN RESPONSABLE cumplimiento del principio de no causar daño significativo (DNSH). Instalaciones con potencia inferior o igual a 100 kW nominales [^3]
 
 \raggedright
 
@@ -364,7 +365,7 @@ La representación se ostenta en virtud del documento/acto: ………………�
 
 
 
-### DECLARA 
+#### DECLARA 
 
 
 
@@ -425,7 +426,7 @@ Fecha y firma del solicitante:
 
 \color{teal}
 
-## Declaración responsable relativa a la acreditación deque el sistema de almacenamiento formará parte de la instalación de autoconsumo [^5]
+### Declaración responsable relativa a la acreditación deque el sistema de almacenamiento formará parte de la instalación de autoconsumo [^5]
 
 \color{black}
 
@@ -445,7 +446,7 @@ Teléfono ……………………., Fax: …………………………., corre
 
 
 
-### DECLARA
+#### DECLARA
 
 En relación a la instalación de almacenamiento que forma parte de la actuación para la que se ha
 presentado solicitud al programa de ayudas al autoconsumo y el almacenamiento, vinculadas al
@@ -480,7 +481,7 @@ N.I.F.
 
 \color{brown}
 
-## DECLARACIÓN RESPONSABLE relativa a la estimación de que el consumo anual de energía por parte del consumidor o consumidoresasociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación [^6]
+### DECLARACIÓN RESPONSABLE relativa a la estimación de que el consumo anual de energía por parte del consumidor o consumidoresasociados a la instalación sea igual o mayor al 80 % de la energía anual generada por la instalación [^6]
 \raggedright
 
 \color{black}
@@ -538,13 +539,30 @@ Firma
 
 
 
+## JUSTIFICACIONES
 
+### Referencias:
 
+Como continuación del correo enviado el pasado 27 de junio, se adjuntan enlaces donde se podrá acceder a la presentación y al video del Microtaller celebrado el pasado 30 de junio de 2023.
+
+Presentación:
+
+https://www.agenciaandaluzadelaenergia.es/sites/default/files/Documentos/Incentivos/Jornadas/20230630_microtallercuentajustificativa_autoconsumo.pdf?_t=1688457625
+
+Video (dos enlaces): 
+
+https://www.agenciaandaluzadelaenergia.es/es/biblioteca/video-del-microtaller-web-claves-de-la-justificacion-en-el-programa-de-incentivos-para-autoconsumo-y-ejemplo-sobre-como-cumplimentar-la-cuenta-justificativa
+
+Microtaller web: Claves de la justificación en el programa de incentivos para autoconsumo y ejemplo sobre cómo cumplimentar la cuenta justificativa | Agencia Andaluza de la Energía (agenciaandaluzadelaenergia.es)
+
+Atentamente, 
 \newpage
 
-\centering
+.
 
-## Anexo a la memoria del cumplimiento de las condiciones
+\vspace{10cm}
+
+### Anexo a la memoria del cumplimiento de las condiciones
 
 \raggedright
 
@@ -554,9 +572,11 @@ Debe aportar documento de garantía de las baterías instaladas, así como  en c
 
 \newpage
 
-\centering
+.
 
-## Certificado de Instalación Eléctrica (CIE)
+\vspace{10cm}
+
+### Certificado de Instalación Eléctrica (CIE)
 
 \raggedright
 
@@ -564,15 +584,27 @@ De acuerdo con el Reglamento electrotécnico de baja tensión (en  instalaciones
 
 
 
+
+
+
+
 \newpage
 
-\centering
+.
 
-## Cuenta Justificativa
+\vspace{10cm}
+
+### Cuenta Justificativa
+
+La justificación se realizará mediante aportación de cuenta  justificativa con aportación de facturas y justificantes de gasto. La  cuenta contiene las declaraciones necesarias descritas en el resuelve  decimoquinto de la resolución de 28 de septiembre 2021, así como una  memoria de la actuación justificativa de las actividades realizadas y  los resultados obtenidos y una memoria económica que incluye la  totalidad de gastos e inversiones incurridos en la realización de la  actividad subvencionada, así como las desviaciones acaecidas y la  relación de otros ingresos o subvenciones que hayan financiado el  proyecto.
+
+\newpage
+
+#### Cuenta Justificativa
 
 \raggedright
 
-La justificación se realizará mediante aportación de cuenta  justificativa con aportación de facturas y justificantes de gasto. La  cuenta contiene las declaraciones necesarias descritas en el resuelve  decimoquinto de la resolución de 28 de septiembre 2021, así como una  memoria de la actuación justificativa de las actividades realizadas y  los resultados obtenidos y una memoria económica que incluye la  totalidad de gastos e inversiones incurridos en la realización de la  actividad subvencionada, así como las desviaciones acaecidas y la  relación de otros ingresos o subvenciones que hayan financiado el  proyecto.
+
 
 #### Modelo Excel
 
@@ -599,13 +631,23 @@ El presente documento tiene por objeto indicar la relación de facturas y justif
 
 
 
+\newpage
+
+.
+
+\vspace{10cm}
+
+### Declaración de ausencia de conflicto de intereses entidad beneficiaria (DACI)[^10]
+
+En cumplimiento del Plan de medidas Antifraude para la gestión de los  Fondos del Mecanismo de Recuperación y Resiliencia de la Comunidad  Autónoma de Andalucía, la entidad beneficiaria debe aportar una  declaración en relación a la existencia o ausencia de conflictos de  intereses, según modelo del Anexo IX del referido Plan, que se facilita  en documento descargable.
+
 
 
 \newpage
 
 
 
-## Declaración de ausencia de conflicto de intereses entidad beneficiaria (DACI) [^10]
+#### Declaración de ausencia de conflicto de intereses entidad beneficiaria (DACI) 
 
 Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea –
 NextGenerationEU.
@@ -661,16 +703,28 @@ Fdo. La persona beneficiaria ……………………………………………
 
 \newpage
 
+.
+
+\vspace{10cm}
+
+### Declaración de autoconsumo del proyecto ejecutado
+
+Informe firmado por técnico competente o empresa instaladorade que  justifique que el consumo anual del beneficiario es mayor o igual al 80% de la energía que genera la instalación ejecutada, confirmando así la  declaración aportada en solicitud en base a datos de consumo y  generación de la instalación ya en marcha. Si se trata de una  instalación en modalidad sin excedentes o con excedentes acogida a  compensación simplificada está exenta de presentar este informe técnico.
+
+\newpage
+
+
+
 \centering
 
 
 
-### Informe justificativo de la previsión de que el consumo anual real de energía por parte del consumidor o consumidores asociados a la instalación es igual o mayor al 80 % de la energía anual generada por la  instalación objeto de la ayuda[^31]
+#### Informe justificativo de la previsión de que el consumo anual real de energía por parte del consumidor o consumidores asociados a la instalación es igual o mayor al 80 % de la energía anual generada por la  instalación objeto de la ayuda[^21]
 
 \raggedright
 
 
-### Datos del técnico que realiza la memoria [^21]
+#### Datos del técnico que realiza la memoria 
 
 - Nombre: Francisco Manuel Roman Gamez
 - Titulación: Ingeniero Tecnico Industrial
@@ -681,7 +735,7 @@ Fdo. La persona beneficiaria ……………………………………………
 - Correo electrónico: francisomanuelromangamez@gmail.com
 - Teléfono: 600366211
 
-### Datos de la installation
+#### Datos de la installation
 
 Table: Datos de la instalación.
 
@@ -691,18 +745,11 @@ Table: Datos de la instalación.
 | b    | Consumidores y CUPS asociados al autoconsumo [^31]           |        |
 | c    | Energía consumida anual estimada de los consumidores asociados a la instalación de generación de autoconsumo (kWh) [^32] | 8888 |
 | d    | Energía generada anual estimada de la nueva instalación (kWh)[^33] | 33   |
-| e    | Potencia instalada de la nueva instalación de generación (kWp) | 88   |
-| f    | Horas equivalentes estimadas respecto potencia pico (kWh/kWp) | 99   |
+| e    | Potencia instalada de la nueva instalación de generación (kWp)[^36] | 88   |
+| f    | Horas equivalentes estimadas respecto potencia pico (kWh/kWp)[^37] | 99   |
+| g[^38] | $$\%\ Valor\ acreditado= \frac{Energia consumida anual estimada}{Energia generada anual estimada} \cdot 100  = 88$$ |  |
 
-
-
-$$
-\%= \frac{Energia consumida anual estimada}{Energia generada anual estimada} \cdot 100  =
-$$
-
-
-
-### Cálculos justificativos
+#### Cálculos justificativos
 #### Cálculos justificativos de la energía consumida anual estimada.
 
 Respecto a la estimación de la energía consumida y generada anual, se debe considerar que:
@@ -734,7 +781,44 @@ Table: ESTIMACIÓN CONSUMO ANUAL
 
 
 
+
+
+
+
 #### Cálculos justificativos de la energía generada anual estimada
+
+
+
+\vspace{2cm}
+
+
+
+En ………………………………………………………………….a ……de ………………………… de 202…
+
+
+
+\vspace{2cm}
+
+Firma del técnico competente o la empresa instaladora:
+
+D. ……………………………………………………..............
+
+Titulación. ………………………………………..…………..
+
+N.I.F. ……………………………………………………..…….
+
+
+
+
+
+#### ANEXO. DOCUMENTACIÓN JUSTIFICATIVA
+
+En este apartado debe consignar la documentación justificativa que ha utilizado para la realización
+del cálculo del porcentaje de autoconsumo, tanto si se trata de facturas eléctricas como capturas
+de pantalla del sistema de monitorización o cualquier otra documentación procedente de la
+empresa distribuidora o comercializadora.
+
+
 
 
 
@@ -756,102 +840,160 @@ calor.
 UTM.
 [^31]: Incluido consumidores y CUPS correspondiente de cada uno de los consumidores asociados al autoconsumo en el cuadro  'Consumidores asociados'.
 [^32]: De acuerdo con los cálculos justificativos del apartado 3.1.
-[^33]: De acuerdo con los cálculos justificativos del apartado 3.2.
-[^34]:  [Nota informativa nº 1: Documentación imprescindible para justificar(Incentivos <50.000€ de ciudadanos o de empresas privadas)](https://www.agenciaandaluzadelaenergia.es/sites/default/files/Documentos/Incentivos/autoconsumo_nota_1_documentacion_imprescindible_para_justificar.pdf)
+[^33]: De acuerdo con los cálculos justificativos del apartado 3.2.](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_documento_fotografico.pdf)
+[^36]: Potencia de la instalación realmente ejecutada.
+[^37]: Cociente (“valor consignado en c)” / “valor consignado en d)”) x 100
+[^38]: Cociente (“valor consignado en d)” / “valor consignado en e)”) x 10
 
-[^35]: [USTIFICACIÓN FOTOGRÁFICA DE EJECUCIÓN](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_documento_fotografico.pdf)
+
+
+
+
+\newpage
+
+.
+
+\vspace{10cm}
+
+### Declaración de cesión y tratamiento de datos entidad beneficiaria [^40]
+
+Es precisa la cesión por parte del beneficiario de los datos del  expediente a los efectos de auditoría y control del uso de fondos en  relación con las medidas destinadas a la ejecución de reformas y  proyectos de inversión en el marco del plan de recuperación y  resiliencia.
+
+
 
 \newpage
 
 \centering
 
-## Declaración de cesión y tratamiento de datos entidad beneficiaria
+### Declaración de cesión y tratamiento de datos entidad beneficiaria
+
+\raggedright
+
+Nº de expediente: …………………….
+
+La persona beneficiaria ………………………………………..……………………, con DNI/ NIE …………….., como
+entidad beneficiaria de ayudas financiadas con recursos provenientes del PRTR, declara conocer la normativa que
+es de aplicación, en particular los siguientes apartados del artículo 22, del Reglamento (UE) 2021/241 del
+Parlamento Europeo y del Consejo, de 12 de febrero de 2021, por el que se establece el Mecanismo de Recuperación
+y Resiliencia:
+
+- La letra d) del apartado 2: «recabar, a efectos de auditoría y control del uso de fondos en relación con las medidas
+  destinadas a la ejecución de reformas y proyectos de inversión en el marco del plan de recuperación y resiliencia,
+  en un formato electrónico que permita realizar búsquedas y en una base de datos única, las categorías
+  armonizadas de datos siguientes:
+  - i. El nombre del perceptor final de los fondos;
+  - ii. el nombre del contratista y del subcontratista, cuando el perceptor final de los fondos sea un poder
+    adjudicador de conformidad con el Derecho de la Unión o nacional en materia de contratación pública;
+  - iii. los nombres, apellidos y fechas de nacimiento de los titulares reales del perceptor de los fondos o del
+    contratista, según se define en el artículo 3, punto 6, de la Directiva (UE) 2015/849 del Parlamento Europeo y
+    del Consejo (26);
+  - iv. una lista de medidas para la ejecución de reformas y proyectos de inversión en el marco del plan de
+    recuperación y resiliencia, junto con el importe total de la financiación pública de dichas medidas y que
+    indique la cuantía de los fondos desembolsados en el marco del Mecanismo y de otros fondos de la Unión».
+
+- Apartado 3: «Los datos personales mencionados en el apartado 2, letra d), del presente artículo solo serán
+  tratados por los Estados miembros y por la Comisión a los efectos y duración de la correspondiente auditoría de la
+  aprobación de la gestión presupuestaria y de los procedimientos de control relacionados con la utilización de los
+  fondos relacionados con la aplicación de los acuerdos a que se refieren los artículos 15, apartado 2, y 23, apartado
+
+- En el marco del procedimiento de aprobación de la gestión de la Comisión, de conformidad con el artículo 319
+  del TFUE, el Mecanismo estará sujeto a la presentación de informes en el marco de la información financiera y de
+  rendición de cuentas integrada a que se refiere el artículo 247 del Reglamento Financiero y, en particular, por
+  separado, en el informe anual de gestión y rendimiento».
+  
+
+Conforme al marco jurídico expuesto, manifiesta acceder a la cesión y tratamiento de los datos con los fines
+  expresamente relacionados en los artículos citados.
+
+\vspace{2cm}
+
+
+
+Fdo. La persona beneficiaria en su propio nombre
+
+
+
+
+
+\newpage
+
+\centering
+
+#### Declaración de compromiso de cumplimiento de los principios transversales entidad beneficiaria
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Declaración de gestión de residuos del proyecto ejecutado
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Declaración responsable DNSH del proyecto ejecutado
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Facturas
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Justificantes de pago
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Licencias y autorizaciones administrativas
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Memoria del cumplimiento de las condiciones
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Pedidos y/o contratos
+
+\raggedright
+
+\newpage
+
+\centering
+
+### Proyecto/memoria técnica del diseño
 
 \raggedright
 
 
 
-
-
 \newpage
 
 \centering
 
-## Declaración de compromiso de cumplimiento de los principios transversales entidad beneficiaria
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Declaración de gestión de residuos del proyecto ejecutado
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Declaración responsable DNSH del proyecto ejecutado
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Facturas
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Justificantes de pago
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Licencias y autorizaciones administrativas
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Memoria del cumplimiento de las condiciones
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Pedidos y/o contratos
-
-\raggedright
-
-\newpage
-
-\centering
-
-## Proyecto/memoria técnica del diseño
-
-\raggedright
-
-
-
-\newpage
-
-\centering
-
-## Reportaje fotográfico
+### Reportaje fotográfico
 
 \raggedright
 
@@ -874,6 +1016,10 @@ INSTALACIÓN DE AUTOCONSUMO](https://incentivos.agenciaandaluzadelaenergia.es/do
 [^10]:[Modelos orientativos, guías y ayudasDECLARACIÓN SOBRE EXISTENCIA O AUSENCIA DE CONFLICTO DE INTERESES (DCI / DACI)](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_conflicto_interes.pdf)
 
 [^11]:[](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_informe_80%25.pdf)
+
+
+
+[^40]: [Declaración de cesión y tratamiento de datos en relación con la ejecución de actuaciones](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_cesion_datos_personafisica.pdf)
 
 
 
