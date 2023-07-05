@@ -100,27 +100,3 @@ plugins:
   - search
 
 
-
-nav:
-
-    - Proyectos: 
-        - Autoconsumo Nave Industrial: Anexos/000_Proyectos_Autoconsumo Nave Industrial.md 
-        - Autoconsumo Residencial en Bloque de Pisos: Anexos/000_Proyectos_Autoconsumo Residencial en Bloque de Pisos.md 
-        - Autoconsumo Sistema de Bombeo: Anexos/000_Proyectos_Autoconsumo Sistema de Bombeo.md 
-    - desarrollo: 
-        - planos2tabla: Anexos/000_desarrollo_planos2tabla.md 
-        - planos2fig: Anexos/000_desarrollo_planos2fig.md 
-        - todo y enlaces: Anexos/000_desarrollo_todo y enlaces.md 
-    - Incentivos: 
-        - SOLICITUD: Anexos/111_Incentivos_SOLICITUD.md 
-        - Justificante BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS: Anexos/111_Incentivos_Justificante BASES REGULADORAS  PARA INSTALACIONES FOTOVOLTAICAS.md 
-        - DECLARACIÓN RESPONSABLE del consumo: Anexos/111_Incentivos_DECLARACIÓN RESPONSABLE del consumo.md 
-        - Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA: Anexos/111_Incentivos_Justificante CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80 PC DE LA ENERGÍA GENERADA.md 
-        - Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA: Anexos/111_Incentivos_Justificante REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA.md 
-    - Estudios: 
-        - Diseño del sistema eléctrico: Anexos/000_Estudios_Diseño del sistema eléctrico.md 
-        - Dimensionado del sistema: Anexos/000_Estudios_Dimensionado del sistema.md 
-        - Estudio económico: Anexos/000_Estudios_Estudio económico.md 
-    - Calculos: 
-        - Distancia mínima entre filas de módulos: Anexos/111_Calculos_Distancia mínima entre filas de módulos.md
-

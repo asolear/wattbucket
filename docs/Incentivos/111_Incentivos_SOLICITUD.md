@@ -823,31 +823,6 @@ empresa distribuidora o comercializadora.
 
 
 
-[^21]:[JUSTIFICACIÓN DEL CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80% DE LA ENERGÍA GENERADA POR LA INSTALACIÓN](https://www.idae.es/sites/default/files/documentos/ayudas_y_financiacion/RD477-2021_Autoconsumo_y_almacenamiento/2022_02_08-Informe_80%25_Consumo_RD477.pdf)
-[^22]: En el caso de autoconsumos colectivos se presentará la suma de consumos de todos los suministros asociados al mismo,
-separados por CUPS.
-[^23]: Para otros consumos no considerados en la tabla será igualmente razonable la consideración de ratios de fuentes como
-[^24]:Considerando un consumo medio anual de electricidad por vivienda de 3.487 kWh y una potencia media contratada de 4
-kW. Este valor de consumo anual se corresponde con el que aparece en el informe SPAHOUSEC I, publicado por IDAE:
-https://www.idae.es/informacion-y-publicaciones/estudios-informes-y-estadisticas
-
-[^25]:  Considerando un consumo medio de 16,3 kWh/km y 10.000 km al año.
-[^26]: Considerando 12.000 kWh de demanda de calor al año y rendimiento medio estacional (SPF) de 3,0 para la bomba de
-calor.
-
-[^27]: Considerando 2 horas de funcionamiento medio diario a una potencia media de 1 kW durante 90 días al año.
-[^30]: Dirección (calle/municipio/CP/provincia ó polígono/parcela/municipio/provincia), y referencia catastral o coordenadas
-UTM.
-[^31]: Incluido consumidores y CUPS correspondiente de cada uno de los consumidores asociados al autoconsumo en el cuadro  'Consumidores asociados'.
-[^32]: De acuerdo con los cálculos justificativos del apartado 3.1.
-[^33]: De acuerdo con los cálculos justificativos del apartado 3.2.](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_documento_fotografico.pdf)
-[^36]: Potencia de la instalación realmente ejecutada.
-[^37]: Cociente (“valor consignado en c)” / “valor consignado en d)”) x 100
-[^38]: Cociente (“valor consignado en d)” / “valor consignado en e)”) x 10
-
-
-
-
 
 \newpage
 
@@ -865,7 +840,7 @@ Es precisa la cesión por parte del beneficiario de los datos del  expediente a 
 
 \centering
 
-### Declaración de cesión y tratamiento de datos entidad beneficiaria
+#### Declaración de cesión y tratamiento de datos entidad beneficiaria
 
 \raggedright
 
@@ -913,31 +888,161 @@ Fdo. La persona beneficiaria en su propio nombre
 
 
 
+\newpage
+
+\centering
+
+### Declaración de compromiso de cumplimiento de los principios transversales entidad beneficiaria[^122]
+
+
+
+\raggedright
+
+Nº de expediente: ……………………
+
+La persona beneficiaria …………………… ………..…………..……………………, con DNI/ NIE ………………. ,
+
+en la condición de entidad beneficiaria de ayudas financiadas con recursos provenientes del PRTR, en el
+desarrollo de actuaciones necesarias para la consecución de los objetivos definidos en el Componente 7:
+«Despliegue e integración de las energías renovables» y, en su caso, el Componente 8 : «Infraestructuras
+eléctricas, promoción de redes inteligentes y despliegue de la flexibilidad y el almacenamiento», manifiesta
+el compromiso de la entidad con los estándares más exigentes en relación con el cumplimiento de las normas
+jurídicas, éticas y morales, adoptando las medidas necesarias para prevenir y detectar el fraude, la corrupción
+y los conflictos de interés, comunicando en su caso a las autoridades que proceda los incumplimientos
+observados.
+
+Adicionalmente, atendiendo al contenido del PRTR, se compromete a respetar los principios de economía
+circular y evitar impactos negativos significativos en el medio ambiente («DNSH» por sus siglas en inglés «do
+no significant harm») en la ejecución de las actuaciones llevadas a cabo en el marco de dicho Plan, y
+manifiesta que no incurre en doble financiación y que, en su caso, no le consta riesgo de incompatibilidad
+con el régimen de ayudas de Estado.
+
+\vspace{2cm}
+
+
+
+Fdo. La persona beneficiaria en su propio nombre.
+
 
 
 \newpage
 
 \centering
 
-#### Declaración de compromiso de cumplimiento de los principios transversales entidad beneficiaria
+### DECLARACIÓN RESPONSABLE de la correcta gestión de los residuos generados por el proyecto incentivado[^124]
 
 \raggedright
+
+Don/Doña ………….............................................................. con NIF……….………… en su propio nombre /
+en representación de (razón social) …………………………………………………………………………………
+………………………….…………, con C.I.F.………...................... que actúa en calidad de persona (señalar lo
+que corresponda) administradora, apoderada, apoderada especial
+
+
+
+**DECLARA**
+
+
+
+En relación al proyecto ejecutado con número de expediente ………………… que cumple lo siguiente:
+Los residuos generados por las actividades que se desarrollan en el mismo han sido gestionados de manera
+adecuada, habiendo sido depositados en los contenedores o puntos limpios que se definen en las ordenanzas
+municipales de gestión de residuos, o bien a través de gestores autorizados*. En caso de haberse generado
+residuos de construcción y demolición en obras civiles y/o desmantelamiento, se cumple con un porcentaje
+mínimo de valorización del 70% de los mismos.
+
+*Recuerde que, en este caso, cuando han intervenido gestores autorizados, se deben conservar las
+certificaciones que acrediten documentalmente dicha gestión.
+
+Fecha y firma (obligatoriamente digital) de la persona solicitante:
+
+\vspace{2cm}
 
 \newpage
 
 \centering
 
-### Declaración de gestión de residuos del proyecto ejecutado
+### DECLARACIÓN RESPONSABLE cumplimiento del principio de no causar daño significativo (DNSH). Instalaciones con potencia inferior o igual a 100 kW nominales [^125]
 
 \raggedright
 
-\newpage
 
-\centering
 
-### Declaración responsable DNSH del proyecto ejecutado
+Don/Doña …………..............................................................con DNI/NIE……….………… en su propio nombre
+Rellenar por el solicitante este apartado, marcando las correspondientes casillas según su instalación
 
-\raggedright
+Identificación de la actuación (nombre de la subvención)
+
+RD 477/2021 Programas de incentivos para la ejecución de instalaciones ligadas al autoconsumo y al almacenamiento, con fuentes de
+energías renovables (EERR), así como a la implantación de sistemas térmicos renovables en el sector residencial, en el marco del Plan de
+Recuperación, Transformación y Resiliencia (PRTR).
+
+Componente del PRTR al que pertenece la actividad
+
+- [x]  C7: Actuaciones de generación con energías renovables
+- [x] C8: Actuaciones de almacenamiento
+- [x] C7/C8: Actuaciones de generación energías renovables con almacenamiento.
+
+Medida (Reforma o Inversión) del Componente PRTR al que pertenece la actividad indicando, en su caso, la
+  submedida
+
+
+
+- [x] C7.I1: Actuaciones de generación con energías renovables
+- [x] C8.I1: Actuaciones de almacenamiento
+- [x] C7.I1/C8.I1: Actuaciones de generación energías renovables con almacenamiento.
+
+Etiquetado climático y medioambiental asignado a la medida (Reforma o Inversión) o, en su caso, a la
+  submedida del PRTR (Anexo VI, Reglamento 2021/241)
+
+[Incluir tantos códigos como tecnologías incluya el proyecto]
+
+- [x]  028: Energía renovable: eólica.
+- [x]  029: Energía renovable: solar (fotovoltaica y térmica).
+- [x]  032: Otras energías renovables (geotermia, hidrotermia y aerotermia).
+- [x]  033: Sistemas de almacenamiento
+
+
+
+**DECLARA**
+
+Que ha presentado solicitud a la actuación arriba indicada para el proyecto con número de expediente
+…….…. y éste cumple lo siguiente:
+
+
+
+1. Las actividades que se desarrollan en el mismo no ocasionan un perjuicio significativo a los siguientes
+objetivos medioambientales, según el artículo 17 del Reglamento (UE) 2020/852 relativo al establecimiento
+de un marco para facilitar las inversiones sostenibles mediante la implantación de un sistema de clasificación
+(o «taxonomía») de las actividades económicas medioambientalmente sostenibles:
+- a) Mitigación del cambio climático.
+- b) Adaptación al cambio climático.
+- c) Uso sostenible y protección de los recursos hídricos y marinos.
+- d) Economía circular, incluidos la prevención y el reciclado de residuos.
+- e) Prevención y control de la contaminación a la atmósfera, el agua o el suelo.
+- f) Protección y restauración de la biodiversidad y los ecosistemas.
+2. Las actividades se adecúan a las características y condiciones fijadas para la medida y submedida de la
+Componente y reflejadas en el Plan de Recuperación, Transformación y Resiliencia.
+3. Las actividades que se desarrollan en el proyecto cumplen la normativa medioambiental vigente que
+resulte de aplicación.
+4. Las actividades que se desarrollan no están excluidas para su financiación por el Plan conforme a la Guía
+técnica sobre la aplicación del principio de «no causar un perjuicio significativo» en virtud del Reglamento
+relativo al Mecanismo de Recuperación y Resiliencia (2021/C 58/01)1, a la Propuesta de Decisión de Ejecución
+del Consejo relativa a la aprobación de la evaluación del plan de recuperación y resiliencia de España2 y a su
+correspondiente Anexo3.
+5. Las actividades que se desarrollan no causan efectos directos sobre el medioambiente, ni efectos
+indirectos primarios en todo su ciclo de vida, entendiendo como tales aquéllos que pudieran materializarse
+tras su finalización, una vez realizada la actividad.
+El incumplimiento de alguno de los requisitos establecidos en la presente declaración dará lugar a la obligación
+de devolver las cantidades percibidas y los intereses de demora correspondientes.
+
+
+
+Fecha y firma de la persona solicitante:
+
+\vspace{2cm}
+
+
 
 \newpage
 
@@ -947,11 +1052,23 @@ Fdo. La persona beneficiaria en su propio nombre
 
 \raggedright
 
+
+
+Facturas detalladas, expedidas a nombre de la entidad beneficiaria del  incentivo, de manera que puedan identificarse los conceptos objeto de  incentivo. Se exime de esta obligación de presentar aquellas facturas  que tengan un importe total a pagar inferior a 3.000 €.
+
+
+
 \newpage
 
 \centering
 
-### Justificantes de pago
+### Justificantes de pago [^126]
+
+
+
+Justificantes bancarios de pago referidos a la inversión elegible  realizada y que respondan al presupuesto, contratos y facturas  presentados. Para justificar la ayuda recibida, debe acreditarse que el  pago total se ha hecho efectivo íntegramente por el beneficiario o por  alguien en su nombre en el plazo establecido, lo cual deberá estar  debidamente acreditado. Los documentos aportados deben garantizar la  trazabilidad de los pagos y permitir una adecuada pista de auditoría.
+
+
 
 \raggedright
 
@@ -959,17 +1076,129 @@ Fdo. La persona beneficiaria en su propio nombre
 
 \centering
 
-### Licencias y autorizaciones administrativas
+### Licencias y autorizaciones administrativas[^127]
 
 \raggedright
+
+Los documentos a incluir serán:
+
+| TIPO DE LICENCIA/<br/>AUTORIZACIÓN                           | ACTUACIONES AFECTADAS                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Licencia de obra                                             | Todas                                                        |
+| Justificación de inscripción<br/>en el registro correspondiente<br/>para su legalización | Todas las instalaciones eléctricas.<br/>Las instalaciones térmicas (Programa P6) de potencia >= 5 kW. |
+| Trámite medioambiental o<br/>certificado de estar exentas    | Instalaciones ubicadas en zonas de la RENPA.<br/> Instalaciones fotovoltaicas en suelo que ocupen más de 10 ha.<br/> Instalaciones eólicas que superen los 100 k |
+
+
 
 \newpage
 
 \centering
 
-### Memoria del cumplimiento de las condiciones
+### MEMORIA JUSTIFICATIVA DE CUMPLIMIENTO DE LA CONDICIONES DE LAS BASES REGULADORAS PARA INSTALACIONES FOTOVOLTAICAS O EÓLICAS DE AUTOCONSUMO ELÉCTRICO CON O SIN ALMACENAMIENTO (PROGRAMAS 1, 2 Y 4) [^128]
 
 \raggedright
+
+**Objeto de la actuación incentivada.**
+
+La instalación ejecutada corresponde con el objeto de la actuación incentivada reflejada en la resolución
+estimatoria del incentivo, y confirmo los siguientes extremos:
+
+- [x] La potencia de generación de la instalación ejecutada se mantiene en el rango de potencias
+  especificado en la resolución.
+
+- [x] La instalación ejecutada incluye una estructura de marquesina conforme declaración de la solicitud.
+
+- [x] Para la instalación ejecutada se ha eliminado amianto en cubierta conforme declaración en
+  solicitud.
+
+- [x] Se trata de una instalación de autoconsumo colectivo, tal y como se refleja en la solicitud.
+
+- [x] La instalación ejecutada incluye una batería que cuenta con una garantía igual o superior a 5 años
+
+- [x] La instalación ejecutada incluye una batería que cuenta con la garantía mínima legal (2-3 años según fecha de compra).
+
+
+**Nota**: En caso de elegir esta opción, deberá adjuntarse un documento suscrito bien con el fabricante, bien
+el suministrador de la batería o con el instalador para cumplir con el requisito mínimo de 5 años de
+duración de la garantía de las baterías, dispuesto por las bases reguladoras de este programa de ayudas.
+
+**Resultados obtenidos.**
+
+En relación a los resultados obtenidos con la actuación objeto de incentivo:
+
+- [x] Confirmo la estimación de energía anual de generación de la instalación declarada en
+  solicitud.
+- [x] La energía anual prevista de generación de la instalación precisa de actualización respecto
+  del valor inicialmente estimado en la solicitud, siendo el valor actualizado con la información
+  del funcionamiento de la instalación de ......................(kWh/año)
+- [x] (si Programa 4 y para instalación conectada a red) No obstante, el dimensionado de la
+  instalación en relación con los consumos asociados, permiten afirmar que se mantiene un
+  autoconsumo al menos del 80% de la energía generada.
+
+**Variaciones en las características de la instalación ejecutada.**
+
+En caso de existir variaciones en las características de la instalación ejecutada frente a la solicitada,
+motivar las desviaciones producidas:
+
+- [x] Existen variaciones en las características de la instalación ejecutada frente a la solicitada,
+  que se detallan a continuación:
+
+  - Potencia de la instalación de generación (Potencia pico para fotovoltaica o potencia de
+    los generadores en eólica) (kW): 2222
+
+  - Potencia del inversor (kW): 33333
+
+  En caso de incluir sistema de almacenamiento:
+
+  - Capacidad del sistema de almacenamiento (kWh): 444444
+  - Potencia de la instalación de almacenamiento (kW): 5555555
+  - Ratio Capacidad de almacenamiento frente a potencia de generación (kWh/kW):
+    777777 , inferior a 5 kWh/kW
+
+
+
+Estas variaciones se motivan en base al siguiente detalle:
+
+
+
+**Sistema de monitorización.**
+
+La instalación ejecutada incluye un sistema de monitorización que incluye las siguientes
+prestaciones:
+
+- Muestra como mínimo la energía producida por la instalación renovable en términos diario,
+  mensual y/o anual, y el correspondiente consumo energético para los mismos periodos.
+
+- Muestra datos adicionales:
+
+  - emisiones de CO2 evitadas
+  - ahorro económico generado para el propietario de la instalación
+  - otros especificar cual: 333333333333333
+
+- La información es accesible vía:
+
+  - dispositivo móvil
+  - aplicación web
+
+- Existe una pantalla en un lugar visible que muestra estos datos de forma actualizada.
+  Nota: Este es un requisito obligatorio salvo actuaciones en el sector residencial.
+  En concreto la pantalla se sitúa en: 333333333333333
+
+**Ejecución.**
+
+  La ejecución de la instalación incentivada ha concluido en fecha: 333333333333333
+  Lo que suscribo en calidad de:
+
+  - Técnico competente autor del proyecto definitivo.
+  - Técnico competente director de obra.
+  - Empresa instaladora de la actuación ejecutada  222 .con
+    CIF 333
+
+
+
+
+
+
 
 \newpage
 
@@ -979,6 +1208,10 @@ Fdo. La persona beneficiaria en su propio nombre
 
 \raggedright
 
+Copia de los pedidos y/o contratos relacionados a las actuaciones realizadas y descritos en la cuenta justificativa
+
+
+
 \newpage
 
 \centering
@@ -987,17 +1220,80 @@ Fdo. La persona beneficiaria en su propio nombre
 
 \raggedright
 
-
+Debe presentar la memoria (instalaciones da autoconsumo menores o igual a 10 kW e instalaciones de climatización entre 5 y 70 kW) o proyecto de  diseño (instalaciones de autoconsumo mayores de 10 kW e instalaciones de climatización >70 kW) que haya aportado a la Consejería de Política  Industrial y Energía de la Junta de Andalucía, para obtener la  autorización de explotación o acta de puesta en servicio y/o CIE  (Certificado de Instalación Eléctrica) o CIT (Certificado de Instalación Térmica)
 
 \newpage
 
 \centering
 
-### Reportaje fotográfico
+### REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA CON/SIN ALMACENAMIENTO
 
 \raggedright
 
 
+
+**N.º DE EXPEDIENTE: 3214123412342**[^1]
+
+Table: Emplazamiento donde se ubica la instalación tras su ejecución y su publicidad.
+
+| ![instalación y el edificio](assets/foto_instalacion.png)    | ![cartel publicidad](assets/foto_publicidad.png)             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Instalación: Espacio destinado a la fotografía del equipo (generador fotovoltaico – campo de paneles)asociado al emplazamiento de ubicación (vivienda –edificio). Se subirá fotografía que permita visualizar la instalación y el edificio de forma conjunta. | Cartel/placa publicitaria de los fondos: Espaciodestinado a la fotografía de la publicidad, placa ocartel publicitario (según actuación). Los modelosde referencias se encuentran en la página web de laAAE “Medidas de información y publicidad para actuaciones cofinanciadas por la Unión Europea –con fondos “NextgenerationEU”[^3][^4].Se subirá fotografía de la publicidad en lugar bien visible para el público. |
+
+\pagebreak
+
+
+Table: Elementos y equipos de la instalación (I).
+
+| ![ superficie de captación instalada](assets/foto_paneles.png) | ![Ubicacion Lat.:40 $^o$ ](assets/foto_paneles_etiqueta.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Panel fotovoltaico: Espacio destinado al equipo de generación (campo solar). Para ello, se deberá subir fotografía que permita visualizar la totalidad o el máximo de la superficie de captación instalada. | Placa de características técnicas del panel fotovoltaico: Espacio destinado a la etiqueta dispuesta en la parte posterior del panel, que permita visualizar los datos técnicos declarados por elfabricante. Para ello, se deberá subir fotografía de la etiqueta del fabricante que tiene el equipo. |
+| ![foto_inversores](assets/foto_inversores.png)               | ![foto_inversores](assets/foto_inversores_etiqueta.png)      |
+| Inversor de conexión a la red interior del consumidor: Espacio destinado al equipo inversor. En aquellas instalaciones dotadas con más de un inversor, se deberá aportar fotografía que permita visualizar la totalidad de las unidades instaladas. | Placa de características técnicas del inversor: Espacio destinado a la etiqueta de características técnicas del equipo. Para ello, se deberá subir fotografía de la etiqueta del fabricante que tiene el equipo en su carcasa. |
+
+
+
+\pagebreak
+
+Table: Elementos y equipos de la instalación (II)
+
+
+
+| ![ffoto_estructura](assets/foto_estructura.png)              | ![foto_inversores](assets/foto_inversores.png)               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Estructura soporte: Espacio destinado a la estructura que soporta el campo solar, para aquellos casos en los que se haya declarado instalación con marquesina. Para ello, se subirá fotografía de la estructura soporte, que permita visualizar claramente que la misma desempeña las funciones de marquesina. | Sistema antivertido: Espacio destinado al equipo que permite no verter energía a la red, en los casos de que sea de aplicación*. Se adjuntará fotografía del equipo destinado al antivertido, y para aquellos casos en los que el propio inversor realice las funciones de sistema de antivertido, se subirá la fotografía del propio inversor. * No son de aplicación para:-  Instalaciones aisladas de red.-  Instalaciones conectadas a red sin excedentes.-  Instalaciones conectadas a red con excedentes acogidas a compensación.-  Instalaciones eólicas del sector residencial de potencia igual o inferior a 3,69 kW. ) |
+| ![Documentos_MD/assets/foto_baterias.png](assets/foto_baterias.png) | ![foto_baterias_etiqueta](assets/foto_baterias_etiqueta.png) |
+| Sistema de almacenamiento: Espacio destinado al equipo acumulador de energía eléctrica (batería) en aquellas instalaciones que dispongan de almacenamiento. Para ello, se subirá fotografía del equipo de acumulación. | Placa característica del sistema de almacenamiento. Espacio destinado a la etiqueta de características técnicas del equipo. Para ello, se deberá subir fotografía de la etiqueta del fabricante, alojada en su carcasa. |
+
+
+
+\pagebreak
+
+Table: Sistema de monitorización de energía térmica e información.
+
+| ![foto_inversores](assets/foto_inversores.png)               | ![Documentos_MD/assets/foto_monitorizacion.png](assets/foto_monitorizacion.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Sistema de monitorización: Espacio destinado al equipo de monitorización. Para ello, subirá la fotografía correspondiente al equipo de monitorización, y para aquellos casos en los que el inversor tenga la capacidad de monitorización, se aportará fotografía del propio inversor. | Visualización de la energía producida por la instalación y la consumida por el usuario: Espacio destinado a los datos de producción y consumos. Para ello, se subirá fotografía de la pantalla del equipo de monitorización donde se muestren los datos en tiempo real. |
+| ![foto_monitorizacion_pantalla](assets/foto_monitorizacion_pantalla.png) | ![foto_monitorizacion_pantalla](assets/foto_monitorizacion_pantalla.png) |
+| Pantalla de datos a tiempo real: En los casos que sea de aplicación*, espacio destinado a la pantalla informativa que muestre los parámetros de funcionamiento de la instalación. Se deberá subir fotografía de la pantalla informativa ubicada en un lugar de acceso público visible.*(no obligatorio en sector residencial) | Dispositivo móvil: Espacio destinado al equipo móvil (teléfono, Tablet, aplicación web...) cuando sea de aplicación*. Para ello, se subirá fotografía del equipo donde el usuario de forma remota visualiza el funcionamiento de la instalación, mostrando datos de funcionamiento en tiempo real. |
+
+
+
+\pagebreak
+
+\vspace{2cm}
+
+Este documento fotográfico responde a la realidad de la instalación objeto de incentivo del expediente con nº de referencia 3214123412342 , lo que suscribe a los efectos de justificación de la ayuda.
+
+\vspace{4cm}
+
+ Francisco Manuel Roman Gamez. 
+
+Con DNI 24206918Q en calidad de:representante legal de la empresa instaladora.
+
+\vspace{4cm}
+
+Firma:
 
 
 
@@ -1018,11 +1314,35 @@ INSTALACIÓN DE AUTOCONSUMO](https://incentivos.agenciaandaluzadelaenergia.es/do
 [^11]:[](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_informe_80%25.pdf)
 
 
+[^21]: [JUSTIFICACIÓN DEL CONSUMO ANUAL DE ENERGÍA IGUAL O SUPERIOR AL 80% DE LA ENERGÍA GENERADA POR LA INSTALACIÓN](https://www.idae.es/sites/default/files/documentos/ayudas_y_financiacion/RD477-2021_Autoconsumo_y_almacenamiento/2022_02_08-Informe_80%25_Consumo_RD477.pdf)
+[^22]: En el caso de autoconsumos colectivos se presentará la suma de consumos de todos los suministros asociados al mismo, separados por CUPS.
+[^23]: Para otros consumos no considerados en la tabla será igualmente razonable la consideración de ratios de fuentes como
+[^24]: Considerando un consumo medio anual de electricidad por vivienda de 3.487 kWh y una potencia media contratada de 4 kW. Este valor de consumo anual se corresponde con el que aparece en el informe SPAHOUSEC I, publicado por IDAE:
+https://www.idae.es/informacion-y-publicaciones/estudios-informes-y-estadisticas
+[^25]:  Considerando un consumo medio de 16,3 kWh/km y 10.000 km al año.
+[^26]: Considerando 12.000 kWh de demanda de calor al año y rendimiento medio estacional (SPF) de 3,0 para la bomba de calor.
+[^27]: Considerando 2 horas de funcionamiento medio diario a una potencia media de 1 kW durante 90 días al año.
+[^30]: Dirección (calle/municipio/CP/provincia ó polígono/parcela/municipio/provincia), y referencia catastral o coordenadas UTM.
+[^31]: Incluido consumidores y CUPS correspondiente de cada uno de los consumidores asociados al autoconsumo en el cuadro  'Consumidores asociados'.
+[^32]: De acuerdo con los cálculos justificativos del apartado 3.1.
+[^33]: De acuerdo con los cálculos justificativos del apartado 3.2.](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_documento_fotografico.pdf)
+[^36]: Potencia de la instalación realmente ejecutada.
+[^37]: Cociente (“valor consignado en c)” / “valor consignado en d)”) x 100
+[^38]: Cociente (“valor consignado en d)” / “valor consignado en e)”) x 10
 
 [^40]: [Declaración de cesión y tratamiento de datos en relación con la ejecución de actuaciones](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_cesion_datos_personafisica.pdf)
 
+[^122]:[DECLARACIÓN DE COMPROMISOS ENRELACIÓN CON LA EJECUCIÓN DE
+ACTUACIONES](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_compromiso_ejecucion.pdf)
+[^123]: [Anexo X: Declaración de compromisos en relación con la ejecución de actuaciones](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_compromiso_personafisica.pdf)
+[^124]: [DECLARACIÓN RESPONSABLE de la correcta gestión de los residuos generados por el proyecto incentivado](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_declaracion_responsable_residuos.pdf)
+[^125]: [USTIFICACIÓN PRINCIPIO DE NO CAUSAR DAÑO SIGNIFICATIVO AL MEDIOAMBIENTE  (DNSH) PARA INSTALACIONES CON POTENCIA INFERIOR O IGUAL A 100KW](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_declaracion_DNSH.pdf)
 
-
+[^126]: [DOCUMENTO DE JUSTIFICACIÓN DEL PAGO A PRESENTAR](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Transversal/transversal_justificacion_mediospago.pdf)
+[^127]: [GUÍA DE LICENCIAS Y AUTORIZACIONES ADMINISTRATIVAS](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_guia_licenciasypermisos.pdf)
+[^128]: [MEMORIA JUSTIFICATIVA DE CUMPLIMIENTO DE LA CONDICIONESDE LAS BASES REGULADORAS PARA INSTALACIONES FOTOVOLTAICAS O EÓLICAS DE AUTOCONSUMO ELÉCTRICO CON O
+SIN ALMACENAMIENTO (PROGRAMAS 1, 2 Y 4)](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_cumplimiento_requisitos.pdf)
+[^129]:[REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA CON/SIN ALMACENAMIENTO](https://incentivos.agenciaandaluzadelaenergia.es/documentacion/Autoconsumo2021/autoconsumo_justificacion_documento_fotografico.pdf)
 \pagebreak
 .
 
