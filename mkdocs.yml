@@ -4,8 +4,8 @@ Site_url: https://wattbucket.com/
 docs_dir: 'docs'
 copyright: Copyright &copy; 2023 Watt Bucket
 theme:
-  logo:  Anexos/assets/logo.png
-  favicon: Anexos/assets/logo.png
+  logo:  assets/logo.png
+  favicon: assets/logo.png
   name: material
   palette:
     - scheme: default
@@ -24,7 +24,7 @@ theme:
     - navigation.prune
     - navigation.top
     - content.code.annotate
-  
+  language: es
 extra:
   social:
     - icon: fontawesome/solid/paper-plane
