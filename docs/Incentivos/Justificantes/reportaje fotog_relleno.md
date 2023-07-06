@@ -20,7 +20,10 @@ header-includes: |
 
 
 
-# reportaje fotog. <a href="../reportaje fotog.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../reportaje fotog.html">    :fontawesome-solid-file-pen:</a>
+# reportaje fotog. 
+
+<a href="../reportaje fotog.pdf" style="font-size: 40px;">   :fontawesome-solid-file-pdf:</a>,<a href="../reportaje fotog.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
+
 3214123412342
 
 
@@ -30,9 +33,9 @@ header-includes: |
 
 
 
-**N.º DE EXPEDIENTE: 3214123412342**[^1]
+**N.º DE EXPEDIENTE: 3214123412342** 
 
-Table: Emplazamiento donde se ubica la instalación tras su ejecución y su publicidad.
+Table: Emplazamiento donde se ubica la instalación tras su ejecución y su publicidad.[^1]
 
 | ![instalación y el edificio](assets/foto_instalacion.png)    | ![cartel publicidad](assets/foto_publicidad.png)             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -40,4 +43,4 @@ Table: Emplazamiento donde se ubica la instalación tras su ejecución y su publ
 
 
 
-
+[^1] : jijirqwerwqe

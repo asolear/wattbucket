@@ -20,7 +20,11 @@ header-includes: |
 
 
 
+# consumo almenos80. 
 
+<a href="../consumo almenos80.pdf" style="font-size: 40px;">   :fontawesome-solid-file-pdf:</a>,<a href="../consumo almenos80.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
+
+3214123412342
 ## SOLICITUD
 
 ### Características Beneficiario [^4]
