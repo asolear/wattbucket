@@ -31,7 +31,7 @@ header-includes: |
 
 
 
-
+![image-20230706170336419](reportaje fotog.assets/image-20230706170336419.png)
 
 **N.º DE EXPEDIENTE: 3214123412342** 
 
