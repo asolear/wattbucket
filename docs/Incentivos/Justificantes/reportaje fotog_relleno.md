@@ -1,6 +1,6 @@
 ---
 title: 
-    probando
+    Acceso Solicitud de Incentivos - Beneficiarios actuando en su propio nombre aaaa
 abstract: 
     Acceso Solicitud de Incentivos - Beneficiarios actuando en su propio nombre
 campos: ['Tecnico']
@@ -20,7 +20,6 @@ header-includes: |
 
 
 
-# reportaje fotog. 
 
 <a href="../reportaje fotog.pdf" style="font-size: 40px;">   :fontawesome-solid-file-pdf:</a>,<a href="../reportaje fotog.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
 

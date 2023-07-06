@@ -3,7 +3,6 @@ site_name: Q.Roman
 Site_url: https://wattbucket.com/
 docs_dir: 'docs'
 copyright: Copyright &copy; 2023 Watt Bucket
-
 theme:
   logo:  assets/logo.png
   favicon: assets/logo.png
@@ -99,7 +98,5 @@ plugins:
   - git-revision-date          
   - mkdocstrings
   - search
-  - exclude:
-      patterns:
-        - _*
+
 
