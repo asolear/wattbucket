@@ -20,14 +20,13 @@ header-includes: |
 
 
 
-#    :fontawesome-solid-file-pdf:</a>,<a href="">    :fontawesome-solid-file-pen:</a>
-
+# reportaje fotog. <a href="../reportaje fotog.pdf">   :fontawesome-solid-file-pdf:</a>,<a href="../reportaje fotog.html">    :fontawesome-solid-file-pen:</a>
 3214123412342
 
 
 ### REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJECUTADA DE GENERACIÓN FOTOVOLTAICA CON/SIN ALMACENAMIENTO
 
-\raggedright
+
 
 
 
