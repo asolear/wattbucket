@@ -18,9 +18,14 @@ header-includes: |
 
 
 
+$a=hh$
 
-<a href=../planos2tabla.pdf style="font-size: 40px;">   :fontawesome-solid-file-pdf:</a>,
-<a href=../planos2tabla.html style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
+$$
+a=22
+$$
+
+<a href="../planos2tabla jhjkhj k.pdf" style="font-size: 40px;">   :fontawesome-solid-file-pdf:</a>,
+<a href="../planos2tabla jhjkhj k.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
 
 
 
@@ -28,7 +33,7 @@ header-includes: |
 
 ![image-20230707205352913](assets/image-20230707205352913.png)
 
-
+![image-20230707235105735](./assets/image-20230707235105735.png)
 
 ## MODELO_EDIFICIO3D
 
