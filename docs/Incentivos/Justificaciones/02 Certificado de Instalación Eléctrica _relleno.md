@@ -26,9 +26,15 @@ De acuerdo con el Reglamento electrotécnico de baja tensión (en  instalaciones
 
 
 
-
-
+jjj
 
 
 .
+
+
+
+
+![](assets/_qr_Documentos/Incentivos/Justificaciones/02CertificadodeInstalaciónEléctrica.png){width=15% height=auto}
+
+[https://wattbucket.com/Documentos/Incentivos/Justificaciones/02 Certificado de Instalación Eléctrica /](https://wattbucket.com/Anexos/Documentos/Incentivos/Justificaciones/02 Certificado de Instalación Eléctrica /)
 
