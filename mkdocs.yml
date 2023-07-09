@@ -98,5 +98,5 @@ plugins:
   - git-revision-date          
   - mkdocstrings
   - search
-
+  - toc-md
 
