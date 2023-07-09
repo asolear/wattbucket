@@ -98,10 +98,31 @@ plugins:
   - git-revision-date          
   - mkdocstrings
   - search
+    
   - toc-md:
-      toc_page_title: Contenido
-      toc_page_description: Usage mkdocs-toc-md
-      header_level: 2
+      toc_page_title: Oficina Tecnica ![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
+
+      toc_page_description:! 
+        [](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
+
+
+        <center><h1 style="color:orange;  
+          font-size: large">Oficina Técnica de Autoconsumo</h1></center>
+        <center><p style="color:red;  
+          font-size: xx-small"> :fontawesome-solid-file-pen:.- Documentos a medida</p></center>
+
+
+        <style>
+        body {
+            /* background-image: url('Wavy_REst-03_Single-07.jpg');  */
+            /* background-image: url('assets/images/logo.svg');  */
+            /* background-image: url('image/Peek 2023-01-05 19-19.gif');  */
+            background-repeat: no-repeat; 
+            background-attachment: fixed; 
+            background-size: 100% 100%; 
+            }
+        </style>
+      header_level: 3
       pickup_description_meta: false
       pickup_description_class: false
       output_path: index.md
@@ -117,26 +138,8 @@ plugins:
         ja:
           toc_page_title: 目次
           toc_page_description: mkdocs-toc-mdプラグインの使い方
-      shift_header: after_h2_of_index
+      shift_header: after_h1_of_index
       extend_module: true
       output_comment: html
-  - file-filter:
-      filter_nav: true # default value
-      exclude_glob:
-        - 'exclude/this/path/**'
-        - 'exclude/this/file/draft.md'
-        - '*.tmp'
-      exclude_regex:
-        - '.*\.(tmp|bin|tar)$'
-      exclude_tag:
-        - draft
-        - preview
-      include_glob:
-        - 'include/this/path/**'
-        - 'include/this/file/Code-of-Conduct.md'
-        - '*.png'
-        - 'assets/**' # the material theme requires this folder
-      include_regex:
-        - '.*\.(js|css)$'
-      include_tag:
-        - released
+
+

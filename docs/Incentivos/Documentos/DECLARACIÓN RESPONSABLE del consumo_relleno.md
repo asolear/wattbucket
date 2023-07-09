@@ -62,7 +62,6 @@ consumidor o consumidores asociados a la instalación sea igual o mayor al 80 % 
 anual generada por la instalación.
 
 
- \hrulefill
 
 
 
