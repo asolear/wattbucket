@@ -3,5 +3,8 @@ mkdocs
 mkdocs-material
 mkdocs-git-revision-date-plugin
 mkdocstrings
-mkdocs-i18n                
+mkdocs-i18n           
+# 
+mkdocs-toc-md
+mkdocs-file-filter-plugin     
             

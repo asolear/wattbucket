@@ -98,6 +98,5 @@ plugins:
   - git-revision-date          
   - mkdocstrings
   - search
-  kkk
 
 

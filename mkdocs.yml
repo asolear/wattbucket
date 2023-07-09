@@ -98,5 +98,45 @@ plugins:
   - git-revision-date          
   - mkdocstrings
   - search
-  - toc-md
-
+  - toc-md:
+      toc_page_title: Contenido
+      toc_page_description: Usage mkdocs-toc-md
+      header_level: 2
+      pickup_description_meta: false
+      pickup_description_class: false
+      output_path: index.md
+      output_log: false
+      ignore_page_pattern: index.*.md$
+      remove_navigation_page_pattern: index.*.md$
+      template_dir_path: custom_template
+      integrate_mkdocs_static_i18n: true
+      languages:
+        en:
+          toc_page_title: Contents
+          toc_page_description: Usage mkdocs-toc-md
+        ja:
+          toc_page_title: 目次
+          toc_page_description: mkdocs-toc-mdプラグインの使い方
+      shift_header: after_h2_of_index
+      extend_module: true
+      output_comment: html
+  - file-filter:
+      filter_nav: true # default value
+      exclude_glob:
+        - 'exclude/this/path/**'
+        - 'exclude/this/file/draft.md'
+        - '*.tmp'
+      exclude_regex:
+        - '.*\.(tmp|bin|tar)$'
+      exclude_tag:
+        - draft
+        - preview
+      include_glob:
+        - 'include/this/path/**'
+        - 'include/this/file/Code-of-Conduct.md'
+        - '*.png'
+        - 'assets/**' # the material theme requires this folder
+      include_regex:
+        - '.*\.(js|css)$'
+      include_tag:
+        - released
