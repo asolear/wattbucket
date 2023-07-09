@@ -100,7 +100,7 @@ plugins:
   - search
     
   - toc-md:
-      toc_page_title: Oficina Tecnica ![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
+      toc_page_title: _![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
       toc_page_description: Usage mkdocs-toc-md
       header_level: 3
       pickup_description_meta: false
