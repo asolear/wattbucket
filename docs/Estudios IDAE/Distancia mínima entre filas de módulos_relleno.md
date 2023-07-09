@@ -20,7 +20,6 @@ header-includes: |
 <a href="../Distancia mínima entre filas de módulos.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
 
 
-ddd
 
 ## Disposicion de los modulos FV.
 
@@ -42,12 +41,12 @@ donde:
 
 Para la Ubicacion en la latitud ($\phi$) de 40$^o$ representada en la figura
 
-![Ubicacion Lat.:40 $^o$ ](assets/_mapa_pais.png)
+![Ubicacion ](assets/_mapa_pais.png)
 
 se representan las medidas a tener en cuenta para determinar la separacion entre filas en la figura.
 
 
-![Distancia mínima entre filas de módulos para $\alpha = 30 ^o$](assets/_fig_distanciaentrefilas_30.png)
+![Distancia mínima entre filas de módulos para](assets/_fig_distanciaentrefilas_30.png)
 
 
 En la tabla se muestan los distancias para las posibles inclinaciones, $\beta$,  con  modulos de 1m x 2m dispuestos horizontalmente.
