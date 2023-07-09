@@ -32,9 +32,9 @@ jjj
 .
 
 
-assets/_qr_02 Certificado de Instalación Eléctrica .png
+assets/qr_02 Certificado de Instalación Eléctrica .png
 
-![ss](f"assets/_qr_02 Certificado de Instalación Eléctrica .png"){width=15% height=auto}
+![ss](assets/qr_02 Certificado de Instalación Eléctrica .png){width=15% height=auto}
 
 [https://wattbucket.com/Incentivos/Justificaciones/02 Certificado de Instalación Eléctrica _relleno/](https://wattbucket.com/Incentivos/Justificaciones/02 Certificado de Instalación Eléctrica _relleno/)
 
