@@ -4,7 +4,7 @@
 
 
 
-# Oficina Tecnica ![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
+# _![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
 Usage mkdocs-toc-md
 
 * [Disposicion de los modulos FV.](Estudios IDAE/Distancia mínima entre filas de módulos_relleno.md#disposicion-de-los-modulos-fv)

@@ -101,7 +101,7 @@ plugins:
     
   - toc-md:
       toc_page_title: _![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
-      toc_page_description: Usage mkdocs-toc-md
+      toc_page_description: Documentos A medida :fontawesome-solid-file-pen:
       header_level: 3
       pickup_description_meta: false
       pickup_description_class: false
