@@ -20,13 +20,13 @@ header-includes: |
 <a href="../Distancia mínima entre filas de módulos.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
 
 
-
+ddd
 
 ## Disposicion de los modulos FV.
 
 ### Distancia mínima entre filas de módulos
 
-Se utiliza el metodo del IDAE [^1] para la determinar la distancia mínima entre filas de módulos, tales que se garanticen al menos 4 horas de sol en torno al mediodía del solsticio de invierno.
+Se utiliza el metodo del IDAE [^111] para la determinar la distancia mínima entre filas de módulos, tales que se garanticen al menos 4 horas de sol en torno al mediodía del solsticio de invierno.
 
 $$
 d_{min}=h \cdot 1/tan(61^o - \phi)
@@ -112,7 +112,7 @@ Luego, la función objetivo se ha modificado para incluir tanto la generación d
 
 ## Referencias
 
-[^1]:[IDAE. Pliego de Condiciones Técnicas de Instalaciones Conectadas a Red. 5 Distancia mínima entre filas de módulos](https://www.idae.es/uploads/documentos/documentos_5654_FV_pliego_condiciones_tecnicas_instalaciones_conectadas_a_red_C20_Julio_2011_3498eaaf.pdf)
+[^111]:[IDAE. Pliego de Condiciones Técnicas de Instalaciones Conectadas a Red. 5 Distancia mínima entre filas de módulos](https://www.idae.es/uploads/documentos/documentos_5654_FV_pliego_condiciones_tecnicas_instalaciones_conectadas_a_red_C20_Julio_2011_3498eaaf.pdf)
 
 [^2]:[IDAE. Pliego de Condiciones Técnicas de Instalaciones Aisladas de Red. 3.2 Orientación e inclinación óptimas. Pérdidas por orientación e inclinación](https://www.idae.es/uploads/documentos/documentos_5654_FV_Pliego_aisladas_de_red_09_d5e0a327.pdf)
 
