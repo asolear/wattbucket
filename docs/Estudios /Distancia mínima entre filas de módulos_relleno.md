@@ -3,7 +3,7 @@ title:
     Distancia mínima entre filas de módulos
 campos: ['Tecnico']
 abstract: 
-    Se utiliza el metodo del IDAE para la determinar la distancia mínima entre filas de módulos, tales que se garanticen al menos 4 horas de sol en torno al mediodía del solsticio de invierno.
+    Se utiliza el metodo del IDAE para la determinar la distancia mínima entre filas de módulos, tales que se garanticen al menos 4 horas de sol en torno al mediodía del solsticio de invierno. Se obtiene la generacion por superficie de instalacion para distintas inclinaciones a una latitud dada.
 
 author: Q.Roman
 header-includes: |
@@ -58,25 +58,34 @@ Si los módulos se instalan sobre cubiertas inclinadas, en el caso de que el azi
 
 ### Caso Particular.
 
-Para la Ubicacion en la latitud ($\phi$) de 40$^o$  y  modulos de 1m de largo y 2m de ancho dispuestos horizontalmente. Se tiene:
+
+
+Para la Ubicacion en la latitud ($\phi$) de 40.42$^o$  y longitud -3.7$^o$
+
+![Ubicacion](assets/mapa_pais.png)
+
+considerando las medidas de los modulos de 1m de largo y 2m de ancho y una disposicion horizontal. Se tiene:
+
+![Distancia mínima entre filas de módulos inclinadoos a $\alpha=30^o$](assets/fig_distanciaentrefilas_30.png)
 
 
 
-![Distancia mínima entre filas de módulos inclinadoos a $\alpha=30^o$](assets/Distancia mínima entre filas de módulos_fig_distanciaentrefilas_30.png)
+En el Cuadro 2 se muestan los resultados para las distintas inclinaciones, $\beta$.
 
+Table: Distancia mínima entre filas de módulos de 2m x 1m
 
-
-
-En el Cuadro 2 se muestan los resultados para las distintas inclinaciones, $\alpha$.
-
-Table: Distancia mínima entre filas de módulos
-
-|    |   $\alpha [^o]$ |   Py[m] |   d[m] |   c[m] |   h[m] |   $E_{{anual}} [kWh]$ |   $A[m^2]$ |   $E/A[kWh/m^2]$ |
-|---:|----------------:|--------:|-------:|-------:|-------:|----------------------:|-----------:|-----------------:|
-|  0 |              90 |       1 |   2.66 |   0    |   1    |                542.75 |       5.32 |           102.02 |
-|  1 |               0 |       1 |   0    |   1    |   0    |                685.54 |       2    |           342.77 |
-|  2 |              15 |       1 |   0.69 |   0.97 |   0.26 |                769.99 |       3.32 |           231.92 |
-|  3 |              30 |       1 |   1.33 |   0.87 |   0.5  |                811.6  |       4.4  |           184.45 |
+|    |   $\alpha [^o]$ |   d[m] |   c[m] |   h[m] |   $E_{{anual}} [kWh]$ |   $A[m^2]$ |   $E/A[kWh/m^2]$ |
+|---:|----------------:|-------:|-------:|-------:|----------------------:|-----------:|-----------------:|
+|  0 |               0 |   0    |   1    |   0    |                685.54 |       2    |           342.77 |
+|  1 |              10 |   0.46 |   0.98 |   0.17 |                746.46 |       2.88 |           259.19 |
+|  2 |              20 |   0.91 |   0.94 |   0.34 |                788.66 |       3.7  |           213.15 |
+|  3 |              30 |   1.33 |   0.87 |   0.5  |                811.6  |       4.4  |           184.45 |
+|  4 |              40 |   1.71 |   0.77 |   0.64 |                815.71 |       4.96 |           164.46 |
+|  5 |              50 |   2.04 |   0.64 |   0.77 |                800.09 |       5.36 |           149.27 |
+|  6 |              60 |   2.31 |   0.5  |   0.87 |                764.25 |       5.62 |           135.99 |
+|  7 |              70 |   2.5  |   0.34 |   0.94 |                708.88 |       5.68 |           124.8  |
+|  8 |              80 |   2.62 |   0.17 |   0.98 |                634.35 |       5.58 |           113.68 |
+|  9 |              90 |   2.66 |   0    |   1    |                542.75 |       5.32 |           102.02 |
 
 
 donde:
@@ -89,6 +98,14 @@ donde:
 - $E_{anual} [kWh]$: Energia anual generada por el modulo.
 - $A[m^2]$ : Superficie ocupada.
 - $E/A[kWh/m^2]$ : Energia por superficie ocupada.
+
+
+## Generacion anual
+
+En la Figura 3 se representa la generacion por meses para la latitud de 40.4$^o$
+
+![Generacion mensual segun la inclinacion](assets/fig_generacioxincliancion.png)
+
 
 
 .
