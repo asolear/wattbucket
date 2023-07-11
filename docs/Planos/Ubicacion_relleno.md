@@ -43,7 +43,7 @@ afsadf
 <a href="../Ubicacion.pdf" style="font-size: 40px;">   :fontawesome-solid-file-pdf:</a>,
 <a href="../Ubicacion.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
 
-
+::: {#multicols .two}
 
 ## PZ PUERTA DEL SOL 7 MADRID
 
