@@ -85,7 +85,7 @@ Firma:
 
 
 
-![](assets/_qr_Documentos/Incentivos/Justificaciones/16REPORTAJEFOTOGRÁFICODEACTUACIÓNEJ.png){width=15% height=auto}
+![](assets/Documentos/Incentivos/Justificaciones/16REPORTAJEFOTOGRÁFICODEACTUACIÓNEJ_qr.png){width=15% height=auto}
 
 [https://wattbucket.com/Anexos/Documentos/Incentivos/Justificaciones/16 REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJ/](https://wattbucket.com/Anexos/Documentos/Incentivos/Justificaciones/16 REPORTAJE FOTOGRÁFICO DE ACTUACIÓN EJ/)
 

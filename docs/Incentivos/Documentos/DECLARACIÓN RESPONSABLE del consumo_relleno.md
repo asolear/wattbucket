@@ -70,7 +70,7 @@ anual generada por la instalación.
 
 
 En Madrid 
-a 09 de 07 de 2023
+a 11 de 07 de 2023
 
 
 Firma del técnico competente o la empresa instaladora:

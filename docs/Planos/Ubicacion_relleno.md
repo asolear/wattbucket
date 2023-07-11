@@ -16,10 +16,11 @@ header-includes: |
     \fancyhead[R]{rfasdf}
     \fancyfoot[L]{dfasdf}
     \fancyfoot[R]{Página \thepage}
-geometry: "a3paper"
-classoption: "landscape"
+
 ...
 <!-- geometry: "a3paper,left=0cm,right=0cm,top=0cm,bottom=10cm" -->
+<!-- geometry: "a4paper"
+classoption: "landscape" -->
 
 
 
@@ -33,12 +34,10 @@ classoption: "landscape"
 
 
 
-
-
- ![mapa provincia](Ubicacion.assets/mapa_provincia-1689010801157-7.png) 
-
- ![mapa provincia](Ubicacion.assets/mapa_provincia-1689010801157-7.png) 
-
+ ![mapa provincia](assets/mapa_provincia.png) 
+ ![mapa provincia](assets/mapa_barrio.png) 
+ ![mapa provincia](assets/satelite.png) 
+ ![mapa provincia](assets/fotofachadacatastro.png) 
 
 
 
