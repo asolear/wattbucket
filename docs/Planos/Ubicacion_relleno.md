@@ -1,4 +1,5 @@
 ---
+# https://pandoc.org/MANUAL.html
 title: 
     Ubicacion
 campos: ['Tecnico']
@@ -7,45 +8,51 @@ abstract:
 
 author: Q.Roman
 header-includes: |
-    \usepackage{float}
     \usepackage{multicol}
     \usepackage{fancyhdr}
-    \usepackage{graphicx}
     \pagestyle{fancy}
     \fancyhead{}
     \fancyhead[R]{rfasdf}
     \fancyfoot[L]{dfasdf}
     \fancyfoot[R]{Página \thepage}
 
-geometry: "a3paper,left=0cm,right=0cm,top=0cm,bottom=10cm"
+# Control
+toc: True
+
+
+geometry: "a3paper,left=2.5cm,right=1cm,top=1cm,bottom=1cm"
 
 classoption: "landscape" 
+# Bibliografía
+bibliography: referencias.bib
+csl: formato.csl
+link-citations: true
+
 ---
 <!--  -->
 <!-- 
 
-geometry: "a3paper,left=0cm,right=0cm,top=0cm,bottom=10cm"
+geometry: "a3paper,left=1cm,right=1cm,top=1cm,bottom=1cm"
 classoption: "landscape" 
 
 -->
 
 
-
+afsadf
 
 <a href="../Ubicacion.pdf" style="font-size: 40px;">   :fontawesome-solid-file-pdf:</a>,
 <a href="../Ubicacion.html" style="font-size: 40px;">    :fontawesome-solid-file-pen:</a>
 
 
 
-## dfadsfasdfasdf
+## PZ PUERTA DEL SOL 7 MADRID
 
+::: {#multicols .two}
 
-
- ![mapa provincia](assets/mapa_provincia.png) 
- ![mapa provincia](assets/mapa_barrio.png) 
- ![mapa provincia](assets/satelite.png) 
- ![mapa provincia](assets/fotofachadacatastro.png) 
-
+![mapa provincia](assets/mapa_provincia.png) 
+![mapa provincia](assets/mapa_barrio.png) 
+![mapa provincia](assets/satelite.png) 
+![mapa provincia](assets/fotofachadacatastro.png) 
 
 
 
