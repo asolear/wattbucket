@@ -47,7 +47,6 @@ afsadf
 
 ## PZ PUERTA DEL SOL 7 MADRID
 
-::: {#multicols .two}
 
 ![mapa provincia](assets/mapa_provincia.png) 
 ![mapa provincia](assets/mapa_barrio.png) 
