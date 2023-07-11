@@ -17,10 +17,17 @@ header-includes: |
     \fancyfoot[L]{dfasdf}
     \fancyfoot[R]{Página \thepage}
 
-...
-<!-- geometry: "a3paper,left=0cm,right=0cm,top=0cm,bottom=10cm" -->
-<!-- geometry: "a4paper"
-classoption: "landscape" -->
+geometry: "a3paper,left=0cm,right=0cm,top=0cm,bottom=10cm"
+
+classoption: "landscape" 
+---
+<!--  -->
+<!-- 
+
+geometry: "a3paper,left=0cm,right=0cm,top=0cm,bottom=10cm"
+classoption: "landscape" 
+
+-->
 
 
 
@@ -30,7 +37,7 @@ classoption: "landscape" -->
 
 
 
-
+## dfadsfasdfasdf
 
 
 
