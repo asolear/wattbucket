@@ -21,10 +21,10 @@ header-includes: |
 toc: True
 
 
-# geometry: "a3paper,left=2.5cm,right=1cm,top=1.5cm,bottom=1.5cm"
-geometry: "a4paper,left=2.5cm,right=1cm,top=1.5cm,bottom=1.5cm"
+geometry: "a3paper,left=2.5cm,right=1cm,top=1.5cm,bottom=1.5cm"
+classoption: "landscape" 
+# geometry: "a4paper,left=2.5cm,right=1cm,top=1.5cm,bottom=1.5cm"
 
-# classoption: "landscape" 
 # Bibliografía
 bibliography: referencias.bib
 csl: formato.csl
@@ -38,22 +38,22 @@ link-citations: true
 
 
 ## Direccion
-PZ PUERTA DEL SOL 7 MADRID
-
-Coordenadas: (40.41630407781033, -3.703777670925774)
-
-## Mapas
-![Mapa Pais ](assets/mapa_pais.png){width=100% height=auto}
-
-![Mapa Provincia ](assets/mapa_provincia.png){width=100% height=auto}
-
-![Mapa Calle](assets/mapa_barrio.png){width=100% height=auto}
-
-![Vista Satelite](assets/satelite.png){width=100% height=auto}
-
-![Vista Fachada](assets/fotofachadacatastro.png){width=100% height=auto}
+PZ PUERTA DEL SOL 7 MADRID / Coordenadas: (40.41630407781033, -3.703777670925774)
 
 
+Table: Ubicacion
+
+| ![Mapa Pais ](Ubicacion.assets/mapa_pais.png){width=30% height=auto} | ![Mapa Provincia ](Ubicacion.assets/mapa_provincia.png){width=30% height=auto} | ![Mapa Calle](Ubicacion.assets/mapa_barrio.png){width=30% height=auto} |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              | ![Vista Fachada](Ubicacion.assets/fotofachadacatastro.png){width=30% height=auto} |                                                              |
+
+
+
+
+
+![Planta](assets/geopandas_bg_map.png){ width=111% }
+
+![Planta](assets/satelite_con_placas.png){ width=111% }
 
 
 

@@ -8,7 +8,6 @@ abstract:
 
 author: Q.Roman
 header-includes: |
-    \usepackage{multicol}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead{}
@@ -21,14 +20,10 @@ header-includes: |
 toc: True
 
 
-# geometry: "a3paper,left=2.5cm,right=1cm,top=1.5cm,bottom=1.5cm"
-geometry: "a4paper,left=2.5cm,right=1cm,top=1.5cm,bottom=1.5cm"
+geometry: "a3paper,left=2.5cm,right=1cm,top=1.5cm,bottom=1.5cm"
+classoption: "landscape" 
+# geometry: "a3paper,left=0cm,right=0cm,top=0cm,bottom=0cm"
 
-# classoption: "landscape" 
-# Bibliografía
-bibliography: referencias.bib
-csl: formato.csl
-link-citations: true
 
 ---
 
@@ -38,10 +33,11 @@ link-citations: true
 
 
 
+![Planta](assets/geopandas_bg_map.png){ width=111% }
 
-![Planta ](assets/geopandas_bg_map.png){width=100% height=auto}
+![Planta](assets/satelite_con_placas.png){ width=111% }
 
-
+<!-- 
 
 .
 
@@ -49,7 +45,7 @@ link-citations: true
 ![](assets/Planta FV_qr.png){width=15% height=auto}
 
 [https://wattbucket.com/Anexos/Documentos/Planos/Planta FV/](https://wattbucket.com/Anexos/Documentos/Planos/Planta FV/)
-
+ -->
 
 
 
