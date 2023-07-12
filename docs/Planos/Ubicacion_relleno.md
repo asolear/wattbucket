@@ -48,10 +48,9 @@ Table: Ubicacion
 
 
 
-
 <!-- ![Planta](assets/geopandas_bg_map.png){ width=111% } -->
 
-![Planta](assets/satelite_con_placas.png){ width=111% }
+![Planta](assets/satelite_con_placas.png){ width=44% height=auto }
 
 
 

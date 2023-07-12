@@ -19,4 +19,17 @@ body {
     } 
 </style>
 
+
+
+
+|  Diseno de instalaciones FV   |      |
+| --------------------------------------------------- | ---- |
+|       ![Mapa Pais ](index.assets/satelite_con_placas.png){width=60% height=auto}                                              |      |
+|                                                  |      |
+
+
+
+
+
+
         
