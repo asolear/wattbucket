@@ -7,7 +7,7 @@ hide:
 
  
 
-!!! note annotate "Phasellus posuere in sem ut cursus (1)"
+!!! note annotate " ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left width="400" }Phasellus posuere in sem ut cursus (1)"
 
     Lorem ipsum dolor sit amet,  consectetur adipiscing elit. Nulla et
     euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo

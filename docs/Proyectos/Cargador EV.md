@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
 ---
+<img src="../../assets/cocheev.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 111px; object-fit: cover;">
 
 
  

@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-
+  <img src="../../assets/water-1544808_1280.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 55px; object-fit: cover;">
 
  
 
