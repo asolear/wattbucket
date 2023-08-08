@@ -14,9 +14,7 @@ hide:
 
 
 ??? Info "EQUIPO "
-
-
-    <img src="assets/solar-panels-g590cc61f9_1920.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 55px; object-fit: cover;">
+    <img src="../../assets/equipo.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 111px; object-fit: cover;">
 
     Queremos acompañarte en tu proyecto y poner a tu disposición nuestra experiencia en energías renovables y eficiencia energética para desarrollar proyectos sostenibles y reducir tu huella de carbono.
 
