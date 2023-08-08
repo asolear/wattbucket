@@ -21,11 +21,11 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
   features:
-    # - navigation.tabs
+    - navigation.tabs
     # - navigation.prune
     # - navigation.top
-    - toc.integrate 
-    - content.code.annotate
+    # - toc.integrate 
+    # - content.code.annotate
   language: es
 extra:
   social:
@@ -90,6 +90,11 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - md_in_html
+      
+
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -100,4 +105,5 @@ plugins:
   - git-revision-date          
   - mkdocstrings
   - search
+
 

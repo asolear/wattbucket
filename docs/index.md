@@ -1,4 +1,9 @@
-## 
+---
+hide:
+  - navigation
+  - toc
+---
+ 
 ![](https://github.com/asolear/assets/blob/master/imgs/cabecerag.png?raw=true)
 
 
