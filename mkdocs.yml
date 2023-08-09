@@ -103,7 +103,7 @@ extra_javascript:
 
 
 plugins:
-  - git-revision-date          
+  # - git-revision-date          
   - mkdocstrings
   - search
 
