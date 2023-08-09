@@ -4,14 +4,19 @@ hide:
   - navigation
   - toc
 ---
-<style> body { background-image: url('assets/solar-panels-residencial.jpg'); background-repeat: no-repeat; background-attachment: fixed; /* background-size: cover; */ background-size: 100% 100%; } </style> 
-#
-
-
-<a href="https://www.idae.es/ayudas-y-financiacion/comunidades-energeticas"><sub><sub>Fuente: IDAE</sub></sub></a>
-
-<script src="https://kit.fontawesome.com/1cf483120b.js" crossorigin="anonymous"></script>
-<style>
+<style> 
+body { 
+  background-image: url('assets/solar-panels-residencial.jpg'); background-repeat: no-repeat; background-attachment: fixed; /* background-size: cover; */ background-size: 100% 100%;
+   } 
+.fixed-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: transparent; /* Fondo transparente */
+  padding: 10px;
+  text-align: center;
+}
 .whatsapp-button {
   position: fixed;
   bottom: 222px;
@@ -52,6 +57,25 @@ hide:
     font-size: 30px;
   }
 }
-</style>
+</style> 
+#
+  <div class="fixed-bottom">
+    <p style="font-size: 33px; color: white;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;">Hacia la transición energética</p>
+    <p style="font-size: 22px; color: white;font-family: 'Didot';">
+Trabajamos por el uso eficiente de energías renovables.</p>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    
+  </div>
+
+
+<script src="https://kit.fontawesome.com/1cf483120b.js" crossorigin="anonymous"></script>
+
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=600366211&text=Informacion sobre Black Roof Style" class="whatsapp-button"><i class="fab fa-whatsapp"></i></a>
