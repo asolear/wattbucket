@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-<img src="../assets/contacto.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 111px; object-fit: cover;">
+<img src="../assets/contacto.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 111px; ">
 
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -28,11 +28,11 @@ hide:
     
 
 
- <textarea id="Factura" name="Nombre" style="width: 100%; height: 3vh;" placeholder="Ultima Factura de luz (€)"></textarea>
+ <textarea id="Factura" name="Nombre" style="width: 100%; height: 4vh;" placeholder="Ultima Factura de luz (€)"></textarea>
  <br> 
- <textarea id="Nombre" name="Nombre" style="width: 100%; height: 3vh;" placeholder="Nombre"></textarea>
+ <textarea id="Nombre" name="Nombre" style="width: 100%; height: 4vh;" placeholder="Nombre"></textarea>
  <br> 
- <textarea id="Telefono" name="Telefono" style="width: 100%; height: 3vh;" placeholder="Telefono"></textarea>
+ <textarea id="Telefono" name="Telefono" style="width: 100%; height: 4vh;" placeholder="Telefono"></textarea>
  <br> 
 <textarea id="Mensaje" name="Mensaje" style="width: 100%; height: 10vh;"  placeholder="Mensaje"></textarea><br>
 
