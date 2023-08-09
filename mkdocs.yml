@@ -58,12 +58,13 @@ extra:
       link: /
       lang: es
     - name: English
-      link: /en/ 
+      link: /
       lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
+    - name: Italiano
+      link: /
+      lang: it
 markdown_extensions:
+  - tables
   - footnotes
   - pymdownx.critic
   - pymdownx.caret
@@ -106,5 +107,6 @@ plugins:
   # - git-revision-date          
   - mkdocstrings
   - search
+  # pip install mkdocs-macros-plugin
 
 

@@ -4,6 +4,7 @@ hide:
   - navigation
   - toc
 ---
+
 <style> 
 body { 
   background-image: url('assets/solar-panels-residencial.jpg'); background-repeat: no-repeat; 
