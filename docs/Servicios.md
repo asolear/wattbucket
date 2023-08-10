@@ -70,61 +70,44 @@ body {
     [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
 
 
-??? Info "Proyecto "
-    <img src="../../assets/equipo.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 111px; object-fit: cover;">
 
 
-    Queremos acompañarte en tu proyecto y poner a tu disposición nuestra experiencia en energías renovables y eficiencia energética para  energético en edificios.
+???+ Abstract "FV Residencial"
+    <img src="https://github.com/asolear/assets/blob/master/imgs/casa.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
 
-    [¿Te podemos ayudar?](Contacto.md){ .md-button }
+    Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-
-??? question "🙋‍♀️auditoria"
- 
-
-!!! note annotate "trámite de permisos"
-
-    Lorem ipsum dolor sit amet,  consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
+    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
 
 
 
-=== "C"
+???+ Abstract "FV Industria"
+    <img src="https://github.com/asolear/assets/blob/master/imgs/industrial.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
 
-    ``` mermaid
-    graph LR
-    A[Start] --> B{Error?};
-    B -->|Yes| C[Hmm...];
-    C --> D[Debug];
-    D --> B;
-    B ---->|No| E[Yay!];
-    ```
+    Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-=== "C++"
+    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
 
-    ``` c++
-    #include <iostream>
 
-    int main(void) {
-      std::cout << "Hello world!" << std::endl;
-      return 0;
-    }
-    ```
- 
-## kjhkjh
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left width="400" }
 
-    Consultoría especializada
-    Auditorías y control de eficiencia energética
-    Monitorización y Verificación de consumos.
+???+ Abstract "Huerto Solar"
+    <img src="https://github.com/asolear/assets/blob/master/imgs/suelo.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
 
-         # 
-## kjhkjh
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=right width="400" }
-Lorem ipsum dolor sit amet, consectetur 
-adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus,
-justo purus auctor massa, nec semper lorem quam in massa.
+    Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
+
+    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
+
+
+
+???+ Abstract "Cargador"
+    <img src="https://github.com/asolear/assets/blob/master/imgs/cargador.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
+
+    Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
+
+    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
+
+
+
         
 <center>
 
