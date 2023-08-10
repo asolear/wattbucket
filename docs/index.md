@@ -7,7 +7,7 @@ hide:
 
 <style> 
 body { 
-  background-image: url('assets/solar-panels-residencial.jpg'); background-repeat: no-repeat; 
+  background-image: url('assets/design.jpg'); background-repeat: no-repeat; 
   background-attachment: fixed; /* background-size: cover; */ background-size: 100% 100%;
    } 
 

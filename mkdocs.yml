@@ -10,13 +10,13 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
+      primary: blue grey
       accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
+      primary: blue grey
       accent: orange
       toggle:
         icon: material/toggle-switch
