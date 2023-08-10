@@ -59,19 +59,15 @@ body {
 }
 </style> 
 
-<center>
 
-| Servicios  |D| | | 
-| ---------- |-|-|-|
-| `kjjlkjkl fdasf fdfasfasfasf dfdf dfasdf` |✔️|✔️|✔️|
-| `PUT`      | | | | 
-| `DELETE`   | |✔️|✔️|
 
-??? Abstract "Estudios"
-    
+
+???+ Abstract "Comunidad Energetica"
+    <img src="https://github.com/asolear/assets/blob/master/imgs/fvresidencial.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
+
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-    [Conoce nuestros SERVICIOS](Servicios/index.md){ .md-button }gg
+    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
 
 
 ??? Info "Proyecto "
@@ -130,3 +126,10 @@ Lorem ipsum dolor sit amet, consectetur
 adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus,
 justo purus auctor massa, nec semper lorem quam in massa.
         
+<center>
+
+| Servicios  |D| | | 
+| ---------- |-|-|-|
+| `kjjlkjkl fdasf fdfasfasfasf dfdf dfasdf` |✔️|✔️|✔️|
+| `PUT`      | | | | 
+| `DELETE`   | |✔️|✔️|
