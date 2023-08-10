@@ -62,8 +62,8 @@ body {
 
 
 
-???+ Abstract "Comunidad Energetica"
-    <img src="https://github.com/asolear/assets/blob/master/imgs/fvresidencial.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
+??? Abstract "Comunidad Energetica <img src="https://github.com/asolear/assets/blob/master/imgs/fvresidencial.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">"
+
 
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
@@ -72,8 +72,8 @@ body {
 
 
 
-???+ Abstract "FV Residencial"
-    <img src="https://github.com/asolear/assets/blob/master/imgs/casa.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
+??? Abstract "FV Residencial<img src="https://github.com/asolear/assets/blob/master/imgs/casa.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">"
+    
 
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
