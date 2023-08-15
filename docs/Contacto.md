@@ -6,9 +6,6 @@ hide:
 
  
 
-<img src="../assets/contacto.jpg" alt="Imagen Redimensionada" style="width: 100%; height: 111px; ">
-
-
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
