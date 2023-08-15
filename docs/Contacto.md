@@ -13,9 +13,8 @@ hide:
 
 
 
-
+<label>Indique su Ubicación</label>
 <div id="map" style="width: 100%; height: 200px;"></div>
-<label>Ubicación *</label>
 
 
 <form action="mailto:info@wattbucket.com?subject=QR " method="post"enctype="text/plain">
@@ -28,7 +27,7 @@ hide:
     
 
 
- <textarea id="Factura" name="Nombre" style="width: 100%; height: 4vh;" placeholder="Ultima Factura de luz (€)"></textarea>
+ <textarea id="Factura" name="Factura" style="width: 100%; height: 4vh;" placeholder="Ultima Factura de luz (€)"></textarea>
  <br> 
  <textarea id="Nombre" name="Nombre" style="width: 100%; height: 4vh;" placeholder="Nombre"></textarea>
  <br> 
@@ -37,8 +36,9 @@ hide:
 <textarea id="Mensaje" name="Mensaje" style="width: 100%; height: 10vh;"  placeholder="Mensaje"></textarea><br>
 
 <input type="file" name="archivo">
-<br><br><label><input type="checkbox" class="agree" required> Acepto la Política de
-    Privacidad</label><br><input type="submit" style="width:100%;height: 60px;background-color: #4CAF50"
+<br><br><label><input type="checkbox" class="agree" required> Acepto la Política de  Privacidad
+</label><br>
+    <input type="submit" style="width:100%;height: 60px;background-color: #4CAF50"
     value="✉️ eMAIL"><br>
 </form>
 
