@@ -4,6 +4,7 @@ hide:
   - toc
 ---
 
+En 15 minutos le entregamos toda la  documentación (proyecto o memoria técnica, licencia de obras y solicitud de incentivos) para la tramitación de su proyecto.
 
 ??? Abstract "Comunidad Energetica"
     <img src="https://github.com/asolear/assets/blob/master/imgs/fvresidencial.jpg?raw=true" alt="." style="width: 100%; height: 111px; object-fit: cover;">
