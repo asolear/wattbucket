@@ -1,7 +1,5 @@
 # desde el codigo# 
 site_name: Q.Roman
-Site_url: https://wattbucket.com/
-dev_addr: 0.0.0.0:8000
 docs_dir: 'docs'
 copyright: Copyright &copy; 2023 Watt Bucket
 theme:
