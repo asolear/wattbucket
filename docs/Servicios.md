@@ -12,7 +12,7 @@ En 15 minutos le entregamos toda la  documentación (proyecto o memoria técnica
 
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
+    [¿Le ayudamos?](Contacto.md){ .md-button }
 
 
 
@@ -23,7 +23,7 @@ En 15 minutos le entregamos toda la  documentación (proyecto o memoria técnica
 
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
+    [¿Le ayudamos?](Contacto.md){ .md-button }
 
 
 
@@ -33,7 +33,7 @@ En 15 minutos le entregamos toda la  documentación (proyecto o memoria técnica
 
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
+    [¿Le ayudamos?](Contacto.md){ .md-button }
 
 
 
@@ -43,7 +43,7 @@ En 15 minutos le entregamos toda la  documentación (proyecto o memoria técnica
 
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
+    [¿Le ayudamos?](Contacto.md){ .md-button }
 
 
 
@@ -53,7 +53,7 @@ En 15 minutos le entregamos toda la  documentación (proyecto o memoria técnica
 
     Nuestro equipo está formado por ingenieros de distintos perfiles que te ayudarán tanto a nivel técnico como en la gestión administrativa y la gestión de equipos de tu proyecto.
 
-    [¿Le ayudamos?](Servicios/Contacto.md){ .md-button }
+    [¿Le ayudamos?](Contacto.md){ .md-button }
 
 
 
