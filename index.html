@@ -1509,6 +1509,12 @@
 <p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
 Queremos acompañarte en tu proyecto y poner a tu disposición nuestra experiencia en energías renovables y eficiencia energética para desarrollar proyectos sostenibles</p>
 
+<p></br>
+</br>
+</br>
+</br>
+</br>
+</br></p>
 <div class="collage">
     <img src="figs/asolear.png" alt="Imagen 1">
     <img src="figs/distanciaentrefilas_30.png" alt="Imagen 1">
@@ -1524,27 +1530,38 @@ body {
   background-size: 100% 100%;
    } 
 
-        .collage {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            grid-gap: 10px;
-        }
-
-        .collage img {
-            max-width: 100%;
-            height: auto;
-            transform: rotate(0deg);
-            /* Rotar la imagen 15 grados */
-            transition: transform 0.3s ease;
-            /* Agregar una transición suave */
-        }
-
-        .collage img:hover {
-            transform: scale(1.1) rotate(0deg);
-            /* Escalar la imagen al 110% y volver a la rotación original en el hover */
-        }
+.collage {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+.collage img {
+    max-width: 100%;
+    height: auto;
+    transform: rotate(0deg);
+    /* Rotar la imagen 15 grados */
+    transition: transform 0.3s ease;
+    /* Agregar una transición suave */
+}
+.collage img:hover {
+    transform: scale(1.1) rotate(10deg);
+    /* Escalar la imagen al 110% y volver a la rotación original en el hover */
+}
 
 </style>
+
+<script>
+    const images = document.querySelectorAll('.collage img');
+    images.forEach(img => {
+        img.style.transform = `rotate(${getRandomRotation()}deg) scale(${getRandomScale()})`;
+    });
+    function getRandomRotation() {
+        return Math.floor(Math.random() * 360); // Valores de rotación aleatorios entre 0 y 359 grados
+    }
+    function getRandomScale() {
+        return .5 + Math.random(); // Valores de escala aleatorios entre 1 y 2
+    }
+</script>
 
 
   
