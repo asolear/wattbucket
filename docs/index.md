@@ -12,7 +12,14 @@ hide:
 </br>
 <p style="font-size: 33px; color: white;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;">Hacia la transición energética</p>
 <p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
-Queremos acompañarte en tu proyecto y poner a tu disposición nuestra experiencia en energías renovables y eficiencia energética para desarrollar proyectos sostenibles</p>
+Hola, soy Quico Roman, ingeniero (N. de colegiado 26975)  especializado en control, energías renovables, eficiencia energética y movilidad sostenible.
+</p>
+<p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
+
+En este blog incluyo  casos prácticos de estudios y proyectos  para el diseño de instalaciones de energía solar fotovoltaica y diseño de la infraestructura de recarga del Vehículo Eléctrico.
+<p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
+Actualmente estoy trabajando en la reforma y conversión de motorización térmica a eléctrica de vehículos y su proceso de homologación y legalización, que pronto incluire
+ </p>
 
 </br>
 </br>
@@ -62,9 +69,9 @@ body {
         img.style.transform = `rotate(${getRandomRotation()}deg) scale(${getRandomScale()})`;
     });
     function getRandomRotation() {
-        return Math.floor(Math.random() * 360); // Valores de rotación aleatorios entre 0 y 359 grados
+        return Math.floor(Math.random() * 31) - 15; // Valores de rotación aleatorios entre -15 y 15 grados
     }
     function getRandomScale() {
-        return .5 + Math.random(); // Valores de escala aleatorios entre 1 y 2
+       return 0.8 + Math.random() * 0.4; // Valores de escala aleatorios entre 0.8 y 1.2
     }
 </script>

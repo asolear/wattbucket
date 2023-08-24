@@ -1,7 +1,7 @@
 # desde el codigo# 
 site_name: Q.Roman
 docs_dir: 'docs'
-copyright: Copyright &copy; 2023 Watt Bucket
+copyright: Copyright &copy; 2023 QR
 theme:
   logo:  assets/logo.png
   favicon: assets/logo.png
@@ -29,7 +29,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:info@wattbucket.com?subject=Contacto blog Watt bucket&body=dsafasd
+      link: mailto:info@qroman.com?subject=Contacto blog QR&body=Quiero comentarte un tema tecnico ...
     - icon: fontawesome/solid/phone
       link: tel:+34 600366211
 
